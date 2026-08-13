@@ -1,0 +1,3654 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ETLCPP",
+          "description": "Embedded Template Library where the user can declare the size, or maximum size of any object upfront.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T08:36:09Z",
+            "owner": "ETLCPP",
+            "repo": "etl",
+            "stars": 3090
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sc",
+          "description": "Portable, stand-alone C libraries and data structures (C99).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-18T00:32:04Z",
+            "owner": "tezc",
+            "repo": "sc",
+            "stars": 2570
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Collection of miscellaneous portable C snippets",
+          "description": "Collection of miscellaneous portable C snippets.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-01-16T20:25:23Z",
+            "owner": "nemequ",
+            "repo": "portable-snippets",
+            "stars": 774
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Embedded Artistry's libc",
+          "description": "A stripped-down C standard library implementation targeted for microcontroller-based embedded systems. Reduced set of functionality (due to embedded nature). Chosen for portability and quick bringup.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-03-17T19:53:04Z",
+            "owner": "embeddedartistry",
+            "repo": "libc",
+            "stars": 660
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "embxx",
+          "description": "Embedded C++ Library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2019-12-08T21:47:41Z",
+            "owner": "arobenko",
+            "repo": "embxx",
+            "stars": 292
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ctl",
+          "description": "C Container Template Library. There is a fast compiling, type safe, header only, template-like container library for ISO C99/C11.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-02-10T12:45:51Z",
+            "owner": "rurban",
+            "repo": "ctl",
+            "stars": 289
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "µClibc-ng",
+          "description": "Embedded C Library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-11T12:18:37Z",
+            "owner": "wbx-github",
+            "repo": "uclibc-ng",
+            "stars": 212
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wiselib",
+          "description": "Generic algorithms library for heterogeneous, distributed, embedded systems.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2014-08-26T16:25:34Z",
+            "owner": "ibr-alg",
+            "repo": "wiselib",
+            "stars": 128
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "embedded-libs",
+          "description": "Libraries for embedded software (mainly for STM32).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2020-01-02T19:31:16Z",
+            "owner": "MaJerle",
+            "repo": "embedded-libs",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HWlib",
+          "description": "C++ OO micro-controller library for close-to-the-hardware programming.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2021-11-22T15:59:05Z",
+            "owner": "wovo",
+            "repo": "hwlib",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MicroTBX",
+          "description": "Open source Microcontroller ToolBoX consisting of software components commonly needed in embedded software applications. MicroTBX is written in the C programming language (C99) with MISRA compliance in mind.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-06-06T12:17:55Z",
+            "owner": "feaser",
+            "repo": "microtbx",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FSMLang",
+          "description": "State machine description language with C language generator. Supports flat and hierarchical machines and event subsystem.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T18:07:19Z",
+            "owner": "FSMLang",
+            "repo": "FSMLang",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "umlibc",
+          "description": "A bare-bones libc for memory constrained systems.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-12-08T21:30:06Z",
+            "owner": "rhempel",
+            "repo": "umm_libc",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "util.embedded",
+          "description": "Useful support code for embedded development.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2022-03-29T07:32:55Z",
+            "owner": "malachib",
+            "repo": "util.embedded",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eFLL",
+          "description": "Embedded Fuzzy Logic Library is a standard library for Embedded Systems.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-01-22T20:20:15Z",
+            "owner": "zerokol",
+            "repo": "eFLL",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Common"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Memory"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "umm_malloc",
+          "description": "Memory Manager For Small(ish) Microprocessors.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-06-25T13:46:48Z",
+            "owner": "rhempel",
+            "repo": "umm_malloc",
+            "stars": 486
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lwmem",
+          "description": "Lightweight dynamic memory manager library for embedded systems with memory constraints. It implements malloc, calloc, realloc and free functions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-06-11T21:15:36Z",
+            "owner": "MaJerle",
+            "repo": "lwmem",
+            "stars": 454
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "o1heap",
+          "description": "A highly deterministic constant-complexity memory allocator designed for hard real-time high-integrity embedded systems.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-02-09T17:28:23Z",
+            "owner": "pavel-kirienko",
+            "repo": "o1heap",
+            "stars": 412
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "libmemory",
+          "description": "Memory management library with implementations for malloc(), free(), and other useful memory management functions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-01-21T18:02:50Z",
+            "owner": "embeddedartistry",
+            "repo": "libmemory",
+            "stars": 285
+          }
+        }
+      ],
+      "title": "Memory management"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "EmbeddedProto",
+          "description": "C++ Protocol Buffers implementation specifically suitable for ARM Cortex-M microcontrollers. It is small, reliable and easy to use.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-06-26T12:09:06Z",
+            "owner": "Embedded-AMS",
+            "repo": "EmbeddedProto",
+            "stars": 275
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "protobuf-embedded-c",
+          "description": "Protocol buffers generator for resource constrained embedded applications written in the C programming language.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2015-09-26T09:59:15Z",
+            "owner": "berezovskyi",
+            "repo": "protobuf-embedded-c",
+            "stars": 48
+          }
+        }
+      ],
+      "title": "Buffers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "LwRB",
+          "description": "Lightweight generic ring buffer manager library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-06-11T21:15:22Z",
+            "owner": "MaJerle",
+            "repo": "lwrb",
+            "stars": 1520
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lfbb",
+          "description": "Lock-free bipartite buffer, a variant of the ring buffer which can always provide contigous space inside the buffer for reading, writing or modifying the data in-place.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-05-20T06:07:20Z",
+            "owner": "DNedic",
+            "repo": "lfbb",
+            "stars": 119
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RingBuffer",
+          "description": "Simple Interrupt Safe Ring (Circular) Buffer Queuing Library for Embedded platforms.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2020-10-24T22:16:50Z",
+            "owner": "wizard97",
+            "repo": "ArduinoRingBuffer",
+            "stars": 117
+          }
+        }
+      ],
+      "title": "Ring Buffer"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Storage"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "littlefs",
+          "description": "Little fail-safe filesystem designed for microcontrollers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-03-25T02:26:59Z",
+            "owner": "littlefs-project",
+            "repo": "littlefs",
+            "stars": 6887
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SdFat",
+          "description": "Arduino FAT16/FAT32 exFAT Library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-08-13T14:44:36Z",
+            "owner": "greiman",
+            "repo": "SdFat",
+            "stars": 1208
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lwext4",
+          "description": "An ext2/ext3/ext4 filesystem library for microcontrollers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-03-22T03:36:58Z",
+            "owner": "gkostka",
+            "repo": "lwext4",
+            "stars": 589
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LevelX",
+          "description": "Provides Flash Wear Leveling for FileX and Stand Alone purposes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-22T20:10:52Z",
+            "owner": "eclipse-threadx",
+            "repo": "levelx",
+            "stars": 153
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "uC-FS",
+          "description": "Compact, reliable, high-performance, and thread-safe embedded file system for microprocessors, microcontrollers, and DSPs. An optional journaling component provides fail-safe operation while maintaining FAT compatibility.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2021-05-20T22:03:01Z",
+            "owner": "weston-embedded",
+            "repo": "uC-FS",
+            "stars": 110
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fat32",
+          "description": "Lighweight FAT32 file system written in C with no thirdparty dependencies. It requires a small port which provide functions for initializing, reading and writing to the MSD.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-04-03T12:47:22Z",
+            "owner": "strawberryhacker",
+            "repo": "fat32",
+            "stars": 103
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fat_io_lib",
+          "description": "Small footprint, low dependency, C code implementation of a FAT16 & FAT32 driver.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2019-04-23T15:33:43Z",
+            "owner": "ultraembedded",
+            "repo": "fat_io_lib",
+            "stars": 79
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ufat",
+          "description": "Low-memory feature-complete VFAT implementation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2023-04-25T09:55:14Z",
+            "owner": "dlbeer",
+            "repo": "ufat",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UFFS",
+          "description": "Filesystem for NAND devices with wear leveling and good fault tolerance.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2021-03-18T22:01:55Z",
+            "owner": "rickyzheng",
+            "repo": "uffs",
+            "stars": 56
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "emfat",
+          "description": "FAT32 emulation library for stm32f4.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2017-06-26T21:11:20Z",
+            "owner": "fetisov",
+            "repo": "emfat",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenFAT",
+          "description": "FAT filesystem implementation for embedded processors.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2015-04-27T21:15:45Z",
+            "owner": "tmolteno",
+            "repo": "openfat",
+            "stars": 39
+          }
+        }
+      ],
+      "title": "Filesystems"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "FlashDB",
+          "description": "Ultra-lightweight database that supports key-value and time series data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-06-12T09:12:45Z",
+            "owner": "armink",
+            "repo": "FlashDB",
+            "stars": 2819
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UnQLite",
+          "description": "Embedded NoSQL, Transactional Database Engine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-05-01T16:49:20Z",
+            "owner": "symisc",
+            "repo": "unqlite",
+            "stars": 2313
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vedis",
+          "description": "Embedded Implementation of Redis (an embeddable datastore C library built with over 70 commands similar in concept to Redis but without the networking layer since Vedis run in the same process of the host application).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2021-11-25T21:35:48Z",
+            "owner": "symisc",
+            "repo": "vedis",
+            "stars": 561
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PureDB",
+          "description": "Portable and tiny set of libraries for creating and reading constant databases.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-06-25T17:00:00Z",
+            "owner": "jedisct1",
+            "repo": "PureDB",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "microkvs",
+          "description": "Tiny key-value store for persisting configuration data on microcontrollers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-11-16T00:45:28Z",
+            "owner": "azonenberg",
+            "repo": "microkvs",
+            "stars": 23
+          }
+        }
+      ],
+      "title": "Data Bases"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "EasyFlash",
+          "description": "Lightweight embedded flash memory library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-03-14T14:10:34Z",
+            "owner": "armink",
+            "repo": "EasyFlash",
+            "stars": 2357
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FlashAlgo",
+          "description": "Framework for building Arm Cortex-M \"FLM\" style flash programming algorithms.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2023-09-01T08:02:41Z",
+            "owner": "pyocd",
+            "repo": "FlashAlgo",
+            "stars": 179
+          }
+        }
+      ],
+      "title": "Flash Memory"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "nanoPB",
+          "description": "Small code-size Protocol Buffers implementation in ANSI C. It is especially suitable for use in microcontrollers, but fits any memory restricted system.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-24T21:06:47Z",
+            "owner": "nanopb",
+            "repo": "nanopb",
+            "stars": 5517
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nanoMODBUS",
+          "description": "A compact MODBUS RTU/TCP C library for embedded/microcontrollers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-02-01T12:46:24Z",
+            "owner": "debevv",
+            "repo": "nanoMODBUS",
+            "stars": 893
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TinyFrame",
+          "description": "Simple library for building and parsing data frames for serial interfaces (like UART / RS232).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2022-08-26T20:45:54Z",
+            "owner": "MightyPork",
+            "repo": "TinyFrame",
+            "stars": 432
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rcobs",
+          "description": "Reverse-COBS encoding (rCOBS) is a variant of COBS encoding designed to allow encoding with zero lookahead.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2021-04-16T20:26:26Z",
+            "owner": "Dirbaio",
+            "repo": "rcobs",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "interchange",
+          "description": "Request/response mechanism for embedded development, using atomics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-08-08T12:00:57Z",
+            "owner": "trussed-dev",
+            "repo": "interchange",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aem-modbus-simulator",
+          "description": "Open-source Python Modbus RTU/TCP slave simulator emulating an industrial DC monitor (147 holding registers, 6 baudrates). Useful for testing embedded firmware Modbus master implementations without physical slave hardware on the bench.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-31T23:14:15Z",
+            "owner": "leaberg69",
+            "repo": "aem-modbus-simulator",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xmodem",
+          "description": "XMODEM Library for embedded, mobile, iot, and desktop systems.",
+          "children": []
+        }
+      ],
+      "title": "Protocols"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Adafruit's RadioHead",
+          "description": "Packet Radio library for embedded microprocessors with docs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-05-12T15:59:37Z",
+            "owner": "adafruit",
+            "repo": "RadioHead",
+            "stars": 205
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RadioHead",
+          "description": "Packet Radio library for embedded microprocessors.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2021-11-17T18:27:42Z",
+            "owner": "hallard",
+            "repo": "RadioHead",
+            "stars": 147
+          }
+        }
+      ],
+      "title": "Radio Frequency Protocols"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "uIP",
+          "description": "Very small implementation of the TCP/IP stack that is written by Adam Dunkels.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2017-01-09T22:13:45Z",
+            "owner": "adamdunkels",
+            "repo": "uip",
+            "stars": 1079
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LRNDIS",
+          "description": "Ethernet over USB (rndis + lwip).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2021-06-24T20:49:14Z",
+            "owner": "fetisov",
+            "repo": "lrndis",
+            "stars": 368
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CycloneTCP",
+          "description": "A dual IPv4/IPv6 stack dedicated to embedded applications. The stack is distributed as a full ANSI C and highly maintainable source code (examples not included in GitHub's sources).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-05-29T07:33:03Z",
+            "owner": "Oryx-Embedded",
+            "repo": "CycloneTCP",
+            "stars": 206
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LiveKit",
+          "description": "ESP32 SDK for LiveKit: real-time audio, video, and data streaming.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-10T18:55:21Z",
+            "owner": "livekit",
+            "repo": "client-sdk-esp32",
+            "stars": 142
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HttpClient",
+          "description": "Http Client Library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2019-02-05T16:39:47Z",
+            "owner": "nmattisson",
+            "repo": "HttpClient",
+            "stars": 121
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RawTCP_Lib",
+          "description": "C library for creating and using TCP/IP packets with raw network sockets.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-12-20T13:03:22Z",
+            "owner": "h3xduck",
+            "repo": "RawTCP_Lib",
+            "stars": 73
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "StaticNet",
+          "description": "C++ TCP/IP and SSH stack with all-static allocations designed for bare metal (no operating system) embedded applications with minimal footprint.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-07-18T06:20:25Z",
+            "owner": "azonenberg",
+            "repo": "staticnet",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "httpio",
+          "description": "Stand-Alone Cross Platform request parser and response generator for the HTTP protocol.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2016-09-06T01:46:19Z",
+            "owner": "fetisov",
+            "repo": "httpio",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PicoTCP",
+          "description": "Small-footprint, modular TCP/IP stack designed for embedded systems and the Internet of Things.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-12-11T19:49:07Z",
+            "owner": "Tubbz-alt",
+            "repo": "picotcp",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Network protocols"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "mongoose",
+          "description": "Embedded Web Server and Embedded Networking Library. It implements event-driven non-blocking APIs for TCP, UDP, HTTP, WebSocket, MQTT.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T12:46:07Z",
+            "owner": "cesanta",
+            "repo": "mongoose",
+            "stars": 12989
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "libevhtp",
+          "description": "Extremely-fast and secure embedded HTTP servers with ease.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C",
+            "last_commit": "2021-03-15T12:07:27Z",
+            "owner": "Yellow-Camper",
+            "repo": "libevhtp",
+            "stars": 457
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "libμhttpd",
+          "description": "Very flexible, lightweight and fully asynchronous HTTP server library based on libev and http-parser.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-08-08T03:24:48Z",
+            "owner": "zhaojh329",
+            "repo": "libuhttpd",
+            "stars": 432
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sandbird",
+          "description": "Tiny (800sloc) embeddable HTTP server written in C89.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2019-10-27T11:12:58Z",
+            "owner": "rxi",
+            "repo": "sandbird",
+            "stars": 219
+          }
+        }
+      ],
+      "title": "Web Server"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Paho MQTT",
+          "description": "C client library for embedded systems.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-03T15:37:59Z",
+            "owner": "eclipse-paho",
+            "repo": "paho.mqtt.embedded-c",
+            "stars": 1537
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "libemqtt 1",
+          "description": "Embedded C client library for the MQTT protocol.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2019-11-05T07:57:15Z",
+            "owner": "menudoproblema",
+            "repo": "libemqtt",
+            "stars": 225
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "libumqtt 2",
+          "description": "Lightweight and fully asynchronous MQTT client C library based on libev.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-08-29T13:03:50Z",
+            "owner": "zhaojh329",
+            "repo": "libumqtt",
+            "stars": 196
+          }
+        }
+      ],
+      "title": "MQTT"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Protocol Parsers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "TinyGSM",
+          "description": "Small Arduino library for GSM modules, that just works.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-21T03:52:35Z",
+            "owner": "vshymanskyy",
+            "repo": "TinyGSM",
+            "stars": 2211
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LwGSM",
+          "description": "Library for SIMCOM GSM modules to communicate with AT commands and RTOS from host device.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-11T10:55:17Z",
+            "owner": "MaJerle",
+            "repo": "lwcell",
+            "stars": 486
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GSM_Engine",
+          "description": "Generic AT parser for AT command based modules.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2017-09-11T10:12:24Z",
+            "owner": "MikroElektronika",
+            "repo": "GSM_Engine",
+            "stars": 86
+          }
+        }
+      ],
+      "title": "GSM"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "minmea",
+          "description": "Lightweight GPS NMEA 0183 parser library in pure C.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-15T11:07:03Z",
+            "owner": "kosma",
+            "repo": "minmea",
+            "stars": 956
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LwGPS",
+          "description": "Lightweight GPS NMEA parser for embedded systems.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-15T12:11:36Z",
+            "owner": "MaJerle",
+            "repo": "lwgps",
+            "stars": 506
+          }
+        }
+      ],
+      "title": "GPS"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "LwESP",
+          "description": "Lightweight ESP AT commands parser library to communicate with ESP8266 or ESP32 Wi-Fi module using AT commands.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-11T10:58:46Z",
+            "owner": "MaJerle",
+            "repo": "lwesp",
+            "stars": 560
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cAT",
+          "description": "Plain C library for parsing AT commands for use in host devices.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2023-12-20T14:29:55Z",
+            "owner": "marcinbor85",
+            "repo": "cAT",
+            "stars": 491
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ATParser",
+          "description": "An mbed-os compatible AT command parser.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2019-10-29T14:24:28Z",
+            "owner": "ARMmbed",
+            "repo": "ATParser",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "atcommander",
+          "description": "Portable C++ library for sending AT commands and parsing their responses.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2017-06-01T21:09:25Z",
+            "owner": "malachi-iot",
+            "repo": "atcommander",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "atat",
+          "description": "Lib for AT-like custom commands processing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2018-08-10T16:50:05Z",
+            "owner": "esynr3z",
+            "repo": "atat",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gzat",
+          "description": "Portable AT command parsing library in C++ language.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2020-08-09T21:07:29Z",
+            "owner": "gzhouct",
+            "repo": "gzat",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "AT command parser"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "libCoAP",
+          "description": "C implementation of a lightweight application-protocol for devices that are constrained their resources such as computing power, RF range, memory, bandwidth, or network packet sizes. This protocol, CoAP, is standardized by the IETF as RFC 7252.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-11T15:09:03Z",
+            "owner": "obgm",
+            "repo": "libcoap",
+            "stars": 918
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lwpkt",
+          "description": "Lightweight packet protocol structure for multi-device communication focused on RS-485.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-06-11T21:15:35Z",
+            "owner": "MaJerle",
+            "repo": "lwpkt",
+            "stars": 379
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MIN",
+          "description": "Microcontroller Interconnect Network protocol version 2.0.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-30T18:43:50Z",
+            "owner": "min-protocol",
+            "repo": "min",
+            "stars": 282
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lwow",
+          "description": "Lightweight onewire protocol library optimized for UART hardware on embedded systems.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-06-11T21:15:30Z",
+            "owner": "MaJerle",
+            "repo": "lwow",
+            "stars": 278
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "panStamp-SWAP",
+          "description": "Simple Wireless Abstract Protocol for any existing ISM radio.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2017-07-12T08:46:41Z",
+            "owner": "panStamp",
+            "repo": "swap",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "panStamp-uSWAP",
+          "description": "Micro SWAP stack for MCU's connected via UART.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2016-02-08T23:37:43Z",
+            "owner": "panStamp",
+            "repo": "uswap",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Various protocols"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Data processing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "FPM",
+          "description": "C++ header-only fixed-point math library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-03-29T17:17:14Z",
+            "owner": "MikeLankamp",
+            "repo": "fpm",
+            "stars": 832
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "liquid-fpm",
+          "description": "Software-Defined Radio Fixed-Point Math Library for embedded signal processing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2015-09-01T21:00:59Z",
+            "owner": "jgaeddert",
+            "repo": "liquid-fpm",
+            "stars": 65
+          }
+        }
+      ],
+      "title": "Math"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "liquid-dsp",
+          "description": "Digital signal processing library for software-defined radios.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-11T13:01:17Z",
+            "owner": "jgaeddert",
+            "repo": "liquid-dsp",
+            "stars": 2280
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KISS FFT",
+          "description": "Mixed-radix Fast Fourier Transform based up on the principle, \"Keep It Simple, Stupid\".",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T14:54:37Z",
+            "owner": "mborgerding",
+            "repo": "kissfft",
+            "stars": 1969
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CMSIS-DSP",
+          "description": "Embedded compute library for Cortex-M and Cortex-A.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T13:10:56Z",
+            "owner": "ARM-software",
+            "repo": "CMSIS-DSP",
+            "stars": 1070
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iir1",
+          "description": "DSP IIR realtime filter library written in C++.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-07-07T09:15:36Z",
+            "owner": "berndporr",
+            "repo": "iir1",
+            "stars": 777
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pocketfft",
+          "description": "Heavily modified implementation of FFTPack.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-06-30T11:37:51Z",
+            "owner": "mreineck",
+            "repo": "pocketfft",
+            "stars": 154
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kalman-clib",
+          "description": "Microcontroller targeted naive Kalman filter implementation in pure C.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-06-09T22:09:47Z",
+            "owner": "sunsided",
+            "repo": "kalman-clib",
+            "stars": 142
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SigLib",
+          "description": "Digital Signal Processing and Machine Learning Library (x86, Cortex-A and Cortex-M, RISC-V, DSPs from TI, ADI etc).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-11T07:41:28Z",
+            "owner": "Numerix-DSP",
+            "repo": "siglib",
+            "stars": 108
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lsp-dsp-lib",
+          "description": "DSP library for digital signal processing provides set of functions that perform SIMD-optimized computing on several hardware architectures. All functions currently operate on IEEE-754 single-precision floating-point numbers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-10T19:24:59Z",
+            "owner": "lsp-plugins",
+            "repo": "lsp-dsp-lib",
+            "stars": 90
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "minfft",
+          "description": "Small and fast Discrete Fourier Transform library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-08-11T14:18:22Z",
+            "owner": "aimukhin",
+            "repo": "minfft",
+            "stars": 52
+          }
+        }
+      ],
+      "title": "DSP and Filtering"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "heatshrink",
+          "description": "Data compression library for embedded/real-time systems.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-05-19T06:44:22Z",
+            "owner": "atomicobject",
+            "repo": "heatshrink",
+            "stars": 1546
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SMAZ",
+          "description": "Compression for very small strings.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2019-10-25T15:29:28Z",
+            "owner": "antirez",
+            "repo": "smaz",
+            "stars": 1219
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "shoco",
+          "description": "C library to compress and decompress short strings. It is very fast and easy to use. The default compression model is optimized for english words, but you can generate your own compression model.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-02-16T12:24:33Z",
+            "owner": "Ed-von-Schleck",
+            "repo": "shoco",
+            "stars": 390
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unishox2",
+          "description": "Hybrid encoder for Short Unicode Strings (Unishox provides the best compression for short text and not to be compared with general purpose compression algorithm like lz4, snappy, lzma, brottli and zstd).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-01-10T05:58:53Z",
+            "owner": "siara-cc",
+            "repo": "Unishox2",
+            "stars": 246
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TCOBS",
+          "description": "Short messages compression with COBS framing using implicit run-length-encoding, optimized for data containing statistically a bit more 0 and FF bytes in a row, as data often carry 16, 32 or 64 bit numbers with small values.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-04-29T10:21:01Z",
+            "owner": "rokath",
+            "repo": "tcobs",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ECL",
+          "description": "Embedded Compression Library is not only for embedded, it is mostly oriented for small data and has special optimized low-memory modes for restricted environments.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-03-01T21:08:00Z",
+            "owner": "Nonoum",
+            "repo": "ECL",
+            "stars": 24
+          }
+        }
+      ],
+      "title": "Compression"
+    },
+    {
+      "description": "Artificial Intelligence and Machine Learning",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "μTensor",
+          "description": "TinyML AI inference library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-05-10T08:53:34Z",
+            "owner": "uTensor",
+            "repo": "uTensor",
+            "stars": 1928
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nnom",
+          "description": "Neural Network on Microcontroller (NNoM) is a high-level inference Neural Network library specifically for microcontrollers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-04-08T03:15:10Z",
+            "owner": "majianjia",
+            "repo": "nnom",
+            "stars": 1164
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TinyMaix",
+          "description": "A tiny inference Neural Network library specifically for microcontrollers (TinyML). Designed to follow the rule: Easy-to-Use > Portable > Speed > Space.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-02-05T01:57:29Z",
+            "owner": "sipeed",
+            "repo": "TinyMaix",
+            "stars": 1069
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "libonnx",
+          "description": "Lightweight, portable pure C99 onnx inference engine for embedded devices with hardware acceleration support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-07T10:25:24Z",
+            "owner": "xboot",
+            "repo": "libonnx",
+            "stars": 653
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cranium",
+          "description": "Portable, header-only, feedforward artificial neural network library written in vanilla C99.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2023-10-29T19:34:30Z",
+            "owner": "100",
+            "repo": "Cranium",
+            "stars": 604
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fido",
+          "description": "Lightweight C++ machine learning library for embedded electronics and robotics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2020-01-05T10:58:12Z",
+            "owner": "FidoProject",
+            "repo": "Fido",
+            "stars": 463
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "edge-agents (ForestHub)",
+          "description": "Open-source (AGPL-3.0) 30 MB AI agent runtime for edge devices. Offline by default; GPIO/UART/MQTT as first-class nodes; local SLMs alongside cloud LLMs. Runs on Raspberry Pi, Jetson, STM32MP25.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-29T13:12:24Z",
+            "owner": "ForestHubAI",
+            "repo": "edge-agents",
+            "stars": 96
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "caffepresso",
+          "description": "Optimized Library for Deep Learning on Embedded Accelerator-based platforms.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-10-16T07:23:33Z",
+            "owner": "gplhegde",
+            "repo": "caffepresso",
+            "stars": 88
+          }
+        }
+      ],
+      "title": "AI ML"
+    },
+    {
+      "description": "Computer Vision",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Embedded SOD",
+          "description": "Embedded Computer Vision & Machine Learning Library (CPU Optimized & IoT Capable).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2023-10-20T18:32:09Z",
+            "owner": "symisc",
+            "repo": "sod",
+            "stars": 1800
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QR-Image-embedded",
+          "description": "QR library fork for embedded systems.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2020-01-15T18:32:13Z",
+            "owner": "swex",
+            "repo": "QR-Image-embedded",
+            "stars": 74
+          }
+        }
+      ],
+      "title": "CV"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Cryptography"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "mbedTLS",
+          "description": "Open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-04T16:19:16Z",
+            "owner": "Mbed-TLS",
+            "repo": "mbedtls",
+            "stars": 6868
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tiny-AES-c",
+          "description": "Small portable AES128/192/256 in C.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-10-04T09:45:23Z",
+            "owner": "kokke",
+            "repo": "tiny-AES-c",
+            "stars": 4996
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🔝trezor-crypto",
+          "description": "Heavily optimized cryptography algorithms for embedded Devices.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T20:35:57Z",
+            "owner": "trezor",
+            "repo": "trezor-firmware",
+            "stars": 1805
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LibTomCrypt",
+          "description": "Fairly comprehensive, modular and portable cryptographic toolkit that provides developers with a vast array of well known published block ciphers, one-way hash functions, chaining modes, pseudo-random number generators, public key cryptography and a plethora of other routines.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-08T15:05:13Z",
+            "owner": "libtom",
+            "repo": "libtomcrypt",
+            "stars": 1784
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LibHydrogen",
+          "description": "Lightweight, secure, easy-to-use crypto library suitable for constrained environments.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-06-08T08:54:00Z",
+            "owner": "jedisct1",
+            "repo": "libhydrogen",
+            "stars": 779
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Monocypher",
+          "description": "Easy to use, easy to deploy, auditable crypto library written in portable C.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-28T12:25:16Z",
+            "owner": "LoupVaillant",
+            "repo": "Monocypher",
+            "stars": 775
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tlse",
+          "description": "Single C file TLS 1.2/1.3 implementation, using tomcrypt as crypto library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-07T07:07:53Z",
+            "owner": "eduardsui",
+            "repo": "tlse",
+            "stars": 682
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tinycrypt",
+          "description": "Library of cryptographic algorithms provides an implementation for constrained devices of a minimal set of standard cryptography primitives.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C",
+            "last_commit": "2024-03-05T15:37:08Z",
+            "owner": "intel",
+            "repo": "tinycrypt",
+            "stars": 522
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "trussed",
+          "description": "Minimal, modular way to write cryptographic applications on microcontroller platforms (Rust).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-22T10:46:52Z",
+            "owner": "trussed-dev",
+            "repo": "trussed",
+            "stars": 497
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "arduinolibs",
+          "description": "Arduino Cryptography Library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-05-26T17:08:56Z",
+            "owner": "rweather",
+            "repo": "arduinolibs",
+            "stars": 476
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wolfTPM",
+          "description": "Highly portable TPM 2.0 library, designed for embedded use.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T21:46:15Z",
+            "owner": "wolfSSL",
+            "repo": "wolfTPM",
+            "stars": 336
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🔝liblithium",
+          "description": "Lightweight cryptography library that is portable by design. It requires only standard C99 and does not assume 8-bit addressability, making it suitable for use on some DSP architectures as well as mainstream architectures.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-03-28T20:41:34Z",
+            "owner": "teslamotors",
+            "repo": "liblithium",
+            "stars": 326
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "poly1305-donna",
+          "description": "Implementations of a fast Message-Authentication Code (8 bit, 16 bit, 32 bit and 64 bit multiplies versions).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2022-09-28T04:09:03Z",
+            "owner": "floodyberry",
+            "repo": "poly1305-donna",
+            "stars": 122
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "µAES",
+          "description": "Lightweight, highly flexible, portable and ANSI-C compatible implementation of the AES encryption and block cipher modes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-04-29T10:45:55Z",
+            "owner": "polfosol",
+            "repo": "micro-AES",
+            "stars": 73
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CycloneCRYPTO",
+          "description": "A cryptographic toolkit designed for use in embedded systems. It provides a comprehensive set of cryptographic primitives (hash functions, stream and block ciphers, public key cryptography) that can be used to add security features to your embedded application.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-05-29T07:30:47Z",
+            "owner": "Oryx-Embedded",
+            "repo": "CycloneCRYPTO",
+            "stars": 71
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "krypton",
+          "description": "Embedded TLS/DTLS library, source and binary compatible OpenSSL subset.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2015-12-13T17:36:22Z",
+            "owner": "ezhangle",
+            "repo": "krypton",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "minicrypt",
+          "description": "Library of crypto primitives for embedded systems.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2014-06-11T20:39:10Z",
+            "owner": "IanHarvey",
+            "repo": "minicrypt",
+            "stars": 27
+          }
+        }
+      ],
+      "title": "General"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "micro-ecc",
+          "description": "ECDH and ECDSA for 8-bit, 32-bit, and 64-bit processors.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-11-14T03:34:49Z",
+            "owner": "kmackay",
+            "repo": "micro-ecc",
+            "stars": 1431
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "salty",
+          "description": "Ed25519 signatures with assembly optimizations for Cortex-M4 and Cortex-M33.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-03-24T15:30:06Z",
+            "owner": "ycrypto",
+            "repo": "salty",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "libuecc",
+          "description": "Very small generic-purpose Elliptic Curve Cryptography library compatible with Ed25519.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-09-12T20:13:18Z",
+            "owner": "neocturne",
+            "repo": "libuecc",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Elliptic Curve Cryptography"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "pcg-c-basic",
+          "description": "Code provides a minimal implementation of one member of the PCG family of random number generators, which are fast, statistically excellent, and offer a number of useful features.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2023-11-25T11:44:58Z",
+            "owner": "imneme",
+            "repo": "pcg-c-basic",
+            "stars": 447
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pcg-c",
+          "description": "Code provides an implementation of the PCG family of random number generators, which are fast, statistically excellent, and offer a number of useful features.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2023-10-26T02:23:02Z",
+            "owner": "imneme",
+            "repo": "pcg-c",
+            "stars": 422
+          }
+        }
+      ],
+      "title": "Random Number Generation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "LK kernel",
+          "description": "The Little Kernel Embedded Operating System is SMP-aware kernel designed for small systems ported to a variety of platforms and cpu architectures.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-11T07:41:51Z",
+            "owner": "littlekernel",
+            "repo": "lk",
+            "stars": 3660
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QuarkTS",
+          "description": "OS for embedded applications that supports prioritized cooperative scheduling, time control, inter-task communications primitives, hierarchical state machines and CoRoutines.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-10-27T21:14:29Z",
+            "owner": "kmilo17pet",
+            "repo": "QuarkTS",
+            "stars": 348
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vanilla",
+          "description": "Bare metal ARM® Cortex®-M7 operating system.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2020-10-17T21:23:57Z",
+            "owner": "strawberryhacker",
+            "repo": "operating-system-cortex-m7",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "citrus",
+          "description": "Bare metal ARM® Cortex®-A5 operating system.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2021-01-20T05:46:29Z",
+            "owner": "strawberryhacker",
+            "repo": "operating-system-cortex-a5",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🔝chaos",
+          "description": "Bare metal multicore ARM® Cortex®-A operating system based on a microkernel architecture.",
+          "children": []
+        }
+      ],
+      "title": "OS"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Zephyr",
+          "description": "New generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T23:28:05Z",
+            "owner": "zephyrproject-rtos",
+            "repo": "zephyr",
+            "stars": 16193
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RT-Thread",
+          "description": "RT-Thread was born in 2006, it is an open source, neutral, and community-based real-time operating system (RTOS). RT-Thread has Standard version and Nano version. For resource-constrained microcontroller (MCU) systems, the NANO kernel version that requires only 3KB Flash and 1.2KB RAM memory resources can be tailored with easy-to-use tools; And for resource-rich IoT devices, RT-Thread can use the on-line software package management tool, together with system configuration tools, to achieve intuitive and rapid modular cutting, seamlessly import rich software packages, thus achieving complex functions like Android's graphical interface and touch sliding effects, smart voice interaction effects, and so on.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-13T01:40:55Z",
+            "owner": "RT-Thread",
+            "repo": "rt-thread",
+            "stars": 12147
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🔝FreeRTOS™",
+          "description": "FreeRTOS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-22T22:19:15Z",
+            "owner": "FreeRTOS",
+            "repo": "FreeRTOS",
+            "stars": 7672
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tock Embedded OS",
+          "description": "Embedded operating system designed for running multiple concurrent, mutually distrustful applications on low-memory and low-power microcontrollers (Rust).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T01:32:52Z",
+            "owner": "tock",
+            "repo": "tock",
+            "stars": 6410
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RIOT",
+          "description": "Real-time multi-threading operating system that supports a range of devices that are typically found in the Internet of Things (IoT): 8-bit, 16-bit and 32-bit microcontrollers. RIOT is based on the following design principles: energy-efficiency, real-time capabilities, small memory footprint, modularity, and uniform API access, independent of the underlying hardware (this API offers partial POSIX compliance).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T15:54:43Z",
+            "owner": "RIOT-OS",
+            "repo": "RIOT",
+            "stars": 5775
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Arm Mbed OS",
+          "description": "Platform operating system designed for the Internet of Things. It includes all the features you need to develop a connected product based on an Arm Cortex-M microcontroller, including security, connectivity, an RTOS and drivers for sensors and I/O devices.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-10-08T17:44:17Z",
+            "owner": "ARMmbed",
+            "repo": "mbed-os",
+            "stars": 4866
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Apache NuttX",
+          "description": "Apache NuttX is a mature, real-time embedded operating system (RTOS).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T19:06:03Z",
+            "owner": "apache",
+            "repo": "nuttx",
+            "stars": 3988
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Azure RTOS ThreadX",
+          "description": "Advanced real-time operating system (RTOS) designed specifically for deeply embedded applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T16:43:57Z",
+            "owner": "eclipse-threadx",
+            "repo": "threadx",
+            "stars": 3500
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "embox",
+          "description": "Configurable RTOS designed for resource constrained and embedded systems. Embox main idea is using Linux software without Linux.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-11T20:14:56Z",
+            "owner": "embox",
+            "repo": "embox",
+            "stars": 1584
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QP/C",
+          "description": "Real-time embedded framework/RTOS for embedded systems based on active objects (actors) and hierarchical state machines (FuSa, MISRA-C 2023 compliance).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T10:45:44Z",
+            "owner": "QuantumLeaps",
+            "repo": "qpc",
+            "stars": 1348
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "µC/OS-III",
+          "description": "Preemptive, highly portable, and scalable real-time kernel. Designed for ease of use on a huge number of CPU architectures.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-15T16:23:49Z",
+            "owner": "weston-embedded",
+            "repo": "uC-OS3",
+            "stars": 1083
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MuditaOS",
+          "description": "Mobile operating system based on FreeRTOS optimized for E Ink displays - developed for Mudita Pure minimalist phone.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-06-13T01:15:39Z",
+            "owner": "mudita",
+            "repo": "MuditaOS",
+            "stars": 934
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ChibiOS/RT",
+          "description": "Compact and fast real-time operating system supporting multiple architectures designed for embedded applications on microcontrollers of 8-, 16-, and 32-bits.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-05-31T08:30:12Z",
+            "owner": "ChibiOS",
+            "repo": "ChibiOS",
+            "stars": 854
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "µC/OS-II",
+          "description": "Preemptive, highly portable, and scalable real-time kernels. Designed for ease of use on a huge number of CPU architectures.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2023-01-05T18:18:13Z",
+            "owner": "weston-embedded",
+            "repo": "uC-OS2",
+            "stars": 733
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "distortos",
+          "description": "Object-oriented C++ RTOS for microcontrollers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-16T21:13:51Z",
+            "owner": "DISTORTEC",
+            "repo": "distortos",
+            "stars": 468
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "scmRTOS",
+          "description": "Tiny Real-Time Preemptive Operating System intended for use with Single-Chip Microcontrollers. scmRTOS is capable to run on tiny uCs with as small amount of RAM as 512 bytes. The RTOS is written on C++ and supports various platforms.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-03-13T15:29:36Z",
+            "owner": "scmrtos",
+            "repo": "scmrtos",
+            "stars": 276
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "R3-OS",
+          "description": "Experimental static (μITRON-esque) RTOS for deeply embedded systems, testing the limit of Rust's const eval and generics (Rust).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-04-22T12:02:17Z",
+            "owner": "r3-os",
+            "repo": "r3",
+            "stars": 177
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dandelion",
+          "description": "Microkernel Real-Time Operating System in Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-04-11T06:37:27Z",
+            "owner": "AntoineSebert",
+            "repo": "dandelion",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Quite Ok RTOS",
+          "description": "Tickless, minimal, 500 lines of code, 7 functions.",
+          "children": []
+        }
+      ],
+      "title": "RTOS"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "vsf",
+          "description": "Versaloon Software Framework - a tiny preemptive-capable event-driven incremental software framework for Embedded Systems.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T20:56:35Z",
+            "owner": "vsfteam",
+            "repo": "vsf",
+            "stars": 333
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lwevt",
+          "description": "Lightweight event management system for embedded systems.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-06-11T21:15:12Z",
+            "owner": "MaJerle",
+            "repo": "lwevt",
+            "stars": 195
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "uevloop",
+          "description": "Fast and lightweight event loop for embedded platforms.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-02-18T17:13:03Z",
+            "owner": "andsmedeiros",
+            "repo": "uevloop",
+            "stars": 115
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "async",
+          "description": "Asynchronous framework in C for systems where low memory usage is important.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2022-11-07T07:03:37Z",
+            "owner": "eerimoq",
+            "repo": "async",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EventOS",
+          "description": "Event based system designed for Arduino Framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2023-11-26T17:16:16Z",
+            "owner": "natnqweb",
+            "repo": "EventOS",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "Event based scheduler"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "User Interface"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "embedded-cli",
+          "description": "Single-header CLI with history and autocompletion for embedded systems.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-03-11T15:14:27Z",
+            "owner": "funbiscuit",
+            "repo": "embedded-cli",
+            "stars": 378
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "microshell",
+          "description": "Lightweight pure C implementation of virtual shell, compatible with VT100 terminal. Support root tree, run-time mounting paths, global commands, and much more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-06-20T12:20:57Z",
+            "owner": "marcinbor85",
+            "repo": "microshell",
+            "stars": 362
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "microrl",
+          "description": "Micro read line library for small and embedded devices with basic VT100 support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2023-10-29T19:36:54Z",
+            "owner": "Helius",
+            "repo": "microrl",
+            "stars": 293
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terminal",
+          "description": "Command Line Interface for microcontrollers. Flexible terminal settings allow you to integrate it with any microcontroller, without much effort.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-07-02T07:02:42Z",
+            "owner": "JingoC",
+            "repo": "terminal",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SerialMenu",
+          "description": "Arduino library to easily create menus on the serial console.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2019-11-15T00:03:29Z",
+            "owner": "sonyhome",
+            "repo": "SerialMenu",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "microsh",
+          "description": "Shell for Small Embedded Devices.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2023-10-22T21:34:08Z",
+            "owner": "dimmykar",
+            "repo": "microsh",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "terminal-server",
+          "description": "Terminal server for MCU.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2021-08-18T21:20:23Z",
+            "owner": "NeoProg2013",
+            "repo": "terminal-server",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cli",
+          "description": "CLI (Command Line Interface) example build in pure C. Designed for MCU, support block/non-block mode input.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2018-12-20T16:27:06Z",
+            "owner": "letgo0007",
+            "repo": "cli",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cmd-l",
+          "description": "Command line handler for embedded devices.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2021-10-14T09:58:11Z",
+            "owner": "Lambosaurus",
+            "repo": "cmd-l",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "CLI"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "micromenu-v2",
+          "description": "Tiny text-orientated menu library in C for embedded use.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Makefile",
+            "last_commit": "2019-04-26T08:41:16Z",
+            "owner": "abcminiuser",
+            "repo": "micromenu-v2",
+            "stars": 82
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ProMenu",
+          "description": "Advanced Generic Application Menu Library. ProMenu Library is used for fast implementing advanced user menus. It supports nesting, numeric settings, text settings, boolean values and events. Library is implemented in C++ with build-in Arduino port, but it is easy to port to different architecture.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2020-08-30T20:34:37Z",
+            "owner": "marcinbor85",
+            "repo": "ProMenu",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BBmenu",
+          "description": "Simple portable CLI menu for misc tasks (it is based on text menus, easily defined in a file).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2022-12-09T12:51:25Z",
+            "owner": "vborchsh",
+            "repo": "bbmenu",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Menu"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "fmt",
+          "description": "Modern formatting library providing a fast and safe alternative to C stdio and C++ iostreams.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T16:41:16Z",
+            "owner": "fmtlib",
+            "repo": "fmt",
+            "stars": 23729
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tiny-printf",
+          "description": "Tiny, fast, non-dependent and fully loaded printf implementation for embedded systems. Extensive test suite passing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2023-04-03T17:53:29Z",
+            "owner": "mpaland",
+            "repo": "printf",
+            "stars": 3039
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nanoprintf",
+          "description": "The smallest public printf implementation for its feature set.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-10T13:58:37Z",
+            "owner": "charlesnicholson",
+            "repo": "nanoprintf",
+            "stars": 837
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tiny-printf new",
+          "description": "Enhanced and maintained fork of . Tiny, fast(ish), self-contained and fully loaded printf, sprinf etc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-06-27T07:19:25Z",
+            "owner": "eyalroz",
+            "repo": "printf",
+            "stars": 631
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lwprintf",
+          "description": "Lightweight printf library optimized for embedded systems.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-06-11T21:15:15Z",
+            "owner": "MaJerle",
+            "repo": "lwprintf",
+            "stars": 344
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tinyprintf",
+          "description": "Tiny printf and sprintf library for small embedded systems.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2023-10-29T19:37:11Z",
+            "owner": "cjlano",
+            "repo": "tinyprintf",
+            "stars": 254
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "emio",
+          "description": "Very small binary footprint std::format like formatting using C++20.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-11-30T13:47:31Z",
+            "owner": "Viatorus",
+            "repo": "emio",
+            "stars": 188
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xprintf-fp",
+          "description": "Printf for embedded system with floating point support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2022-11-28T06:50:33Z",
+            "owner": "MarioViara",
+            "repo": "xprintfc",
+            "stars": 71
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Embedded_Printf",
+          "description": "Embedded version of the famous \"printf( )\" function. The idea is create an simple and efficient library to meet some common needs in embedded systems.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-06-19T02:50:58Z",
+            "owner": "agaelema",
+            "repo": "Embedded_Printf",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xprintf",
+          "description": "Complete fprintf() formatting implementation, suitable for embedded use.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2013-06-27T21:11:09Z",
+            "owner": "robbesol",
+            "repo": "xprintf",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xprintf-io",
+          "description": "Compact string I/O library. It is ideal for tiny microcontrollers that has insufficient program memory for regular printf function. The recommended use is: writing formatted strings into LCD or UART and for debug/maintenance console.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2021-05-31T06:51:58Z",
+            "owner": "sinferwu",
+            "repo": "xprintf",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mini-printf",
+          "description": "Minimal printf() implementation for embedded projects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2020-06-18T01:06:33Z",
+            "owner": "ldoolitt",
+            "repo": "mini-printf",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "printf"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "scanf",
+          "description": "Portable implementation of scanf input functions in C.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2021-07-11T22:29:25Z",
+            "owner": "hisahi",
+            "repo": "scanf",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ft_scanf",
+          "description": "Simple scanf %s %c %d.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2017-03-08T07:21:57Z",
+            "owner": "cbarbier",
+            "repo": "ft_scanf",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "scanf"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "spdlog",
+          "description": "Very fast, header-only/compiled, C++ logging library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-08T10:51:08Z",
+            "owner": "gabime",
+            "repo": "spdlog",
+            "stars": 29474
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EasyLogger",
+          "description": "Ultra-lightweight (ROM<1.6K, RAM<0.3k), high-performance C/C++ log library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-12-26T05:57:20Z",
+            "owner": "armink",
+            "repo": "EasyLogger",
+            "stars": 4711
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "trice",
+          "description": "Super fast and tiny embedded device C printf-like trace code (works also inside interrupts) and real-time PC logging (trace ID visualization).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-11T15:08:53Z",
+            "owner": "rokath",
+            "repo": "trice",
+            "stars": 976
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "elog",
+          "description": "Log system is thinked for embedded systems with mininmal resource utilization. The log system is designed to minimize memory compsumition in flash or RAM, enable an eficient in-ram loggin buffer with very efficient storage.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-05-18T19:16:49Z",
+            "owner": "martinribelotta",
+            "repo": "elog",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "embedded-log",
+          "description": "Small and beautiful embedded log library for mcu.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2023-11-23T05:58:13Z",
+            "owner": "to9",
+            "repo": "embedded-log",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "embedded-diagnostic-logger",
+          "description": "Lightweight logger framework for small microcontroller based projects. Multilevel log and token based string transfer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2020-01-14T09:32:21Z",
+            "owner": "binarymaker",
+            "repo": "embedded-diagnostic-logger",
+            "stars": 10
+          }
+        }
+      ],
+      "title": "Logging"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "lvgl",
+          "description": "Powerful and easy-to-use embedded GUI with many widgets, advanced visual effects (opacity, antialiasing, animations) and low memory requirements (16K RAM, 64K Flash).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T15:16:34Z",
+            "owner": "lvgl",
+            "repo": "lvgl",
+            "stars": 24372
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🔝u8g2",
+          "description": "U8glib library for monochrome displays, version 2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-06-27T14:10:31Z",
+            "owner": "olikraus",
+            "repo": "u8g2",
+            "stars": 6626
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LovyanGFX",
+          "description": "Display (LCD / OLED / EPD) graphics library (for ESP32 SPI, I2C, 8bitParallel / ESP8266 SPI, I2C / RP2040 SPI / ATSAMD51 SPI and more).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-13T01:38:02Z",
+            "owner": "lovyan03",
+            "repo": "LovyanGFX",
+            "stars": 1731
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UGUI (µGUI)",
+          "description": "A graphic library. It supports color, grayscale, monochrome and multiple displays, touch screen, windows and objects, basic geometric primitives, fonts, console. There is no required dynamic allocation and memory for screen buffer. Documentation available on developer's website.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2023-10-29T19:32:43Z",
+            "owner": "achimdoebler",
+            "repo": "UGUI",
+            "stars": 1382
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Embedded-graphics",
+          "description": "2D graphics library that is focused on memory constrained embedded devices to draw graphics without using any buffers (Rust).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-02T14:17:57Z",
+            "owner": "embedded-graphics",
+            "repo": "embedded-graphics",
+            "stars": 1325
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HAGL",
+          "description": "Lightweight Hardware Agnostic Graphics Library for embedded devices. It supports basic geometric primitives, bitmaps, blitting, fixed width fonts. Library tries to stay lightweight but targets reasonably powerful microchips such as ESP32. There is no dynamic allocation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-04-03T06:10:09Z",
+            "owner": "tuupola",
+            "repo": "hagl",
+            "stars": 465
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GUIX",
+          "description": "Provides a complete, embedded graphical user interface (GUI) library and design environment, facilitating the creation and maintenance of all graphical elements needed by your device.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-07T15:58:32Z",
+            "owner": "eclipse-threadx",
+            "repo": "guix",
+            "stars": 405
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EasyGUI",
+          "description": "EasyGUI for embedded systems (highly optimized for STM32).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2021-11-25T21:03:41Z",
+            "owner": "MaJerle",
+            "repo": "EasyGUI",
+            "stars": 186
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MakiseGUI",
+          "description": "Graphics and GUI library for embed systems.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2021-05-07T15:10:15Z",
+            "owner": "SL-RU",
+            "repo": "MakiseGUI",
+            "stars": 136
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eGUI",
+          "description": "An eGUI embedded graphic library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2017-12-11T20:50:08Z",
+            "owner": "nxp-archive",
+            "repo": "eGUI",
+            "stars": 83
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "emGUI",
+          "description": "Simple C UI Library for embedded platforms.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2018-01-24T12:15:34Z",
+            "owner": "libEmGUI",
+            "repo": "emGUI",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AFGUI",
+          "description": "Embedded GUI Library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2016-02-23T09:48:46Z",
+            "owner": "AndreyFursov",
+            "repo": "AFGUI",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SGFX",
+          "description": "Lightweight embedded library for displays and touchscreens providing everything required to build a fully featured embedded GUI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2020-05-27T18:27:51Z",
+            "owner": "rprata",
+            "repo": "sgfx",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ESLowGraphics",
+          "description": "Low level software graphics library by ErrorSoft (ESLGL).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2018-04-07T19:15:50Z",
+            "owner": "errorcalc",
+            "repo": "ESLowGraphicsLibrary",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "u8glib",
+          "description": "Universal Graphics Library for 8 Bit Embedded Systems.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C",
+            "last_commit": "2015-03-20T09:50:24Z",
+            "owner": "pabigot",
+            "repo": "u8glib",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HMI_Library",
+          "description": "Human Machine Interface suitable for embedded system.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2013-06-02T22:14:33Z",
+            "owner": "kgrze",
+            "repo": "HMI_Library",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ftk",
+          "description": "GUI library for embedded system.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2016-01-15T11:11:47Z",
+            "owner": "prife",
+            "repo": "ftk",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GUILib",
+          "description": "GUI library for embedded systems.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2015-10-25T21:17:32Z",
+            "owner": "Nikolay-Kha",
+            "repo": "GUILib",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "GUI"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "walv",
+          "description": "Online, WYSIWYG GUI designer for LittlevGL. Cross-platform supported(Even Android and IOS).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2020-07-12T14:38:13Z",
+            "owner": "kaiakz",
+            "repo": "walv",
+            "stars": 116
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lv_gui_designer",
+          "description": "Drag-and-drop, simple GUI designer built with LittlevGL.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C",
+            "last_commit": "2019-09-02T01:26:56Z",
+            "owner": "kaiakz",
+            "repo": "lv_gui_designer",
+            "stars": 79
+          }
+        }
+      ],
+      "title": "GUI editors"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "mcufont",
+          "description": "A font rendering library for microcontrollers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-25T10:13:46Z",
+            "owner": "mcufont",
+            "repo": "mcufont",
+            "stars": 415
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ttf2mesh",
+          "description": "Library for TrueType font tessellation. Allows to convert font glyphs to mesh objects without rasterization.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-06-26T01:30:21Z",
+            "owner": "fetisov",
+            "repo": "ttf2mesh",
+            "stars": 230
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sfam_generator",
+          "description": "Simple scripts for generating bit fonts for STM32, AVR, Arduino or other MCU.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2016-03-23T11:52:21Z",
+            "owner": "SL-RU",
+            "repo": "sfam_generator",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bitmap-OSD-font",
+          "description": "A 'C' bitmap font for on screen display.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2023-11-16T16:49:32Z",
+            "owner": "frisnit",
+            "repo": "bitmap-OSD-font",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Font utils"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "tinyusb",
+          "description": "Cross-platform USB stack for embedded system.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-13T03:48:47Z",
+            "owner": "hathach",
+            "repo": "tinyusb",
+            "stars": 7029
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "libusb_stm32",
+          "description": "Lightweight USB device Stack for STM32 microcontrollers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-10-06T05:06:54Z",
+            "owner": "dmitrystu",
+            "repo": "libusb_stm32",
+            "stars": 824
+          }
+        }
+      ],
+      "title": "USB"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CanBoot",
+          "description": "Can Bootloader for MCUs (Currently lpc176x, stm32 and rp2040 MCUs are supported).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-03-20T15:59:21Z",
+            "owner": "Arksine",
+            "repo": "katapult",
+            "stars": 669
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "libcanard",
+          "description": "Compact implementation of the UAVCAN/CAN protocol in C for high-integrity real-time embedded systems.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-02T21:13:44Z",
+            "owner": "OpenCyphal",
+            "repo": "libcanard",
+            "stars": 444
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Canbus-Message",
+          "description": "CAN message assembly and disassembly library for teensy & stm32.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2021-03-05T19:13:27Z",
+            "owner": "ReFil",
+            "repo": "Canbus-Message",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "CAN bus"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Others"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "mcuboot",
+          "description": "Secure boot for 32-bit Microcontrollers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-11T14:37:55Z",
+            "owner": "mcu-tools",
+            "repo": "mcuboot",
+            "stars": 2025
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenBLT",
+          "description": "Open source bootloader for STM32, XMC, HCS12 and other microcontroller targets. It supports communication interfaces such as: RS232, CAN, USB, TCP/IP and it ships with the easy-to-use MicroBoot PC tool for initiating and monitoring the firmware update. Performing firmware updates directly from an SD-card is also supported.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-14T03:59:34Z",
+            "owner": "feaser",
+            "repo": "openblt",
+            "stars": 963
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wolfBoot",
+          "description": "Portable, OS-agnostic, secure bootloader for microcontrollers, supporting firmware authentication and firmware update mechanisms.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T16:28:16Z",
+            "owner": "wolfSSL",
+            "repo": "wolfBoot",
+            "stars": 519
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TinyUF2",
+          "description": "Bootloader based on TinyUSB for embedded devices such as ESP32, STM32 and iMX RT10xx.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-31T05:50:27Z",
+            "owner": "adafruit",
+            "repo": "tinyuf2",
+            "stars": 468
+          }
+        }
+      ],
+      "title": "Bootloaders"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SWupdate",
+          "description": "Software Update for Embedded Linux Devices to update system in field. SWUpdate supports local and OTA updates, multiple update strategies and it is designed with security in mind.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-10T14:45:51Z",
+            "owner": "sbabic",
+            "repo": "swupdate",
+            "stars": 1853
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UF2",
+          "description": "USB Flashing Format specification for flashing microcontrollers over MSC (Mass Storage Class; aka removable flash drive).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-08T19:01:18Z",
+            "owner": "microsoft",
+            "repo": "uf2",
+            "stars": 1030
+          }
+        }
+      ],
+      "title": "Firmware updates"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "μtz",
+          "description": "Time zone library for tiny embedded systems.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2020-04-22T17:01:39Z",
+            "owner": "evq",
+            "repo": "utz",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TimeLib",
+          "description": "Time management library for embedded devices.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2019-04-21T18:27:55Z",
+            "owner": "geekfactory",
+            "repo": "TimeLib",
+            "stars": 14
+          }
+        }
+      ],
+      "title": "Time Management Libs"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "TinyGo",
+          "description": "Go compiler for small things: Microcontrollers, WebAssembly (WASM/WASI), and command-line tools (Based on LLVM).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T19:08:52Z",
+            "owner": "tinygo-org",
+            "repo": "tinygo",
+            "stars": 17643
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "chibicc",
+          "description": "Yet another small C compiler that implements most C11 features.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2023-10-30T18:02:47Z",
+            "owner": "rui314",
+            "repo": "chibicc",
+            "stars": 11813
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lcc",
+          "description": "Retargetable ANSI C Compiler (fork for ULP in ESP32).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-10-06T03:38:10Z",
+            "owner": "drh",
+            "repo": "lcc",
+            "stars": 2600
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pcc",
+          "description": "Portable C Compiler (mirror).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-08-01T20:38:12Z",
+            "owner": "IanHarvey",
+            "repo": "pcc",
+            "stars": 138
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rvcc",
+          "description": "Bootstrapped C compiler for 32-bit RISC-V and ARM ISAs (generates executable Linux ELF binaries for RV32IM and ARMv7).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-05-01T12:08:07Z",
+            "owner": "mausimus",
+            "repo": "rvcc",
+            "stars": 100
+          }
+        }
+      ],
+      "title": "Compilers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "incbin",
+          "description": "One-header library for compile-time embedding binary and textual files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-05-26T23:47:50Z",
+            "owner": "graphitemaster",
+            "repo": "incbin",
+            "stars": 1182
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "modm",
+          "description": "Barebone embedded C++20 library generator for AVR, SAM and ARM Cortex-M Microcontrollers (supported 3534 devices).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-07T21:31:07Z",
+            "owner": "modm-io",
+            "repo": "modm",
+            "stars": 962
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Apache NuttX Apps",
+          "description": "Collection of tools, shells, network utilities, libraries, interpreters and can be used with the NuttX RTOS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-11T21:13:22Z",
+            "owner": "apache",
+            "repo": "nuttx-apps",
+            "stars": 453
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WTX",
+          "description": "A set of web-oriented tools.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-10T19:58:11Z",
+            "owner": "c410-f3r",
+            "repo": "wtx",
+            "stars": 394
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cembed",
+          "description": "Small utility for embedding files in a C header.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-04-07T18:49:32Z",
+            "owner": "rxi",
+            "repo": "cembed",
+            "stars": 128
+          }
+        }
+      ],
+      "title": "Uncategorized"
+    },
+    {
+      "description": "Please follow this root-repo for lastest updates.",
+      "items": [],
+      "title": "Footnotes"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:07:26.492Z",
+    "original_repository": "iDoka/awesome-embedded-software",
+    "original_repository_sha": "7ee2327a2b2e0413836b6505d9ff5b1d2c8f9e86",
+    "enhanced_repository": "enhansome/enhansome-embedded-software",
+    "enhanced_repository_description": null,
+    "title": "Awesome Embedded Resources for Developers with stars"
+  }
+}
