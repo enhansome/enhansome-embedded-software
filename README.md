@@ -77,8 +77,8 @@ Permanent URL to this list: <https://github.com/iDoka/awesome-embedded-software>
 
 ## Common
 
-* [ETLCPP](https://github.com/ETLCPP/etl) ⭐ 3,099 | 🐛 64 | 🌐 C++ | 📅 2026-08-17 - Embedded Template Library where the user can declare the size, or maximum size of any object upfront.
-* [sc](https://github.com/tezc/sc) ⭐ 2,570 | 🐛 3 | 🌐 C | 📅 2026-07-18 - Portable, stand-alone C libraries and data structures (C99).
+* [ETLCPP](https://github.com/ETLCPP/etl) ⭐ 3,099 | 🐛 66 | 🌐 C++ | 📅 2026-08-17 - Embedded Template Library where the user can declare the size, or maximum size of any object upfront.
+* [sc](https://github.com/tezc/sc) ⭐ 2,569 | 🐛 3 | 🌐 C | 📅 2026-07-18 - Portable, stand-alone C libraries and data structures (C99).
 * [Collection of miscellaneous portable C snippets](https://github.com/nemequ/portable-snippets) ⭐ 774 | 🐛 22 | 🌐 C | 📅 2024-01-16 - Collection of miscellaneous portable C snippets.
 * [Embedded Artistry's libc](https://github.com/embeddedartistry/libc) ⭐ 660 | 🐛 34 | 🌐 C | 📅 2026-03-17 - A stripped-down C standard library implementation targeted for microcontroller-based embedded systems. Reduced set of functionality (due to embedded nature). Chosen for portability and quick bringup.
 * [embxx](https://github.com/arobenko/embxx) ⭐ 294 | 🐛 9 | 🌐 C++ | 📅 2019-12-08 - Embedded C++ Library.
@@ -88,7 +88,7 @@ Permanent URL to this list: <https://github.com/iDoka/awesome-embedded-software>
 * [embedded-libs](https://github.com/MaJerle/embedded-libs) ⭐ 61 | 🐛 0 | 🌐 C | 📅 2020-01-02 - Libraries for embedded software (mainly for STM32).
 * [HWlib](https://github.com/wovo/hwlib) ⭐ 59 | 🐛 3 | 🌐 C++ | 📅 2021-11-22 - C++ OO micro-controller library for close-to-the-hardware programming.
 * [MicroTBX](https://github.com/feaser/microtbx) ⭐ 41 | 🐛 0 | 🌐 C | 📅 2025-06-06 - Open source Microcontroller ToolBoX consisting of software components commonly needed in embedded software applications. MicroTBX is written in the C programming language (C99) with MISRA compliance in mind.
-* [FSMLang](https://github.com/FSMLang/FSMLang) ⭐ 10 | 🐛 18 | 🌐 C | 📅 2026-08-12 - State machine description language with C language generator. Supports flat and hierarchical machines and event subsystem.
+* [FSMLang](https://github.com/FSMLang/FSMLang) ⭐ 10 | 🐛 19 | 🌐 C | 📅 2026-08-18 - State machine description language with C language generator. Supports flat and hierarchical machines and event subsystem.
 * [umlibc](https://github.com/rhempel/umlibc) ⭐ 9 | 🐛 0 | 🌐 C | 📅 2024-12-08 - A bare-bones libc for memory constrained systems.
 * [util.embedded](https://github.com/malachib/util.embedded) ⚠️ Archived - Useful support code for embedded development.
 * [eFLL](https://github.com/zerokol/eFLL) ⭐ 0 | 🐛 0 | 📅 2026-01-22 - Embedded Fuzzy Logic Library is a standard library for Embedded Systems.
@@ -99,12 +99,12 @@ Permanent URL to this list: <https://github.com/iDoka/awesome-embedded-software>
 
 * [umm\_malloc](https://github.com/rhempel/umm_malloc) ⭐ 488 | 🐛 6 | 🌐 C | 📅 2026-06-25 - Memory Manager For Small(ish) Microprocessors.
 * [lwmem](https://github.com/MaJerle/lwmem) ⭐ 455 | 🐛 1 | 🌐 C | 📅 2026-08-15 - Lightweight dynamic memory manager library for embedded systems with memory constraints. It implements malloc, calloc, realloc and free functions.
-* [o1heap](https://github.com/pavel-kirienko/o1heap) ⭐ 414 | 🐛 4 | 🌐 C++ | 📅 2026-02-09 - A highly deterministic constant-complexity memory allocator designed for hard real-time high-integrity embedded systems.
+* [o1heap](https://github.com/pavel-kirienko/o1heap) ⭐ 415 | 🐛 4 | 🌐 C++ | 📅 2026-02-09 - A highly deterministic constant-complexity memory allocator designed for hard real-time high-integrity embedded systems.
 * [libmemory](https://github.com/embeddedartistry/libmemory) ⭐ 285 | 🐛 8 | 🌐 C | 📅 2026-01-21 - Memory management library with implementations for malloc(), free(), and other useful memory management functions.
 
 ### Buffers
 
-* [EmbeddedProto](https://github.com/Embedded-AMS/EmbeddedProto) ⭐ 276 | 🐛 5 | 🌐 C++ | 📅 2026-06-26 -  C++ Protocol Buffers implementation specifically suitable for ARM Cortex-M microcontrollers. It is small, reliable and easy to use.
+* [EmbeddedProto](https://github.com/Embedded-AMS/EmbeddedProto) ⭐ 276 | 🐛 5 | 🌐 C++ | 📅 2026-08-18 -  C++ Protocol Buffers implementation specifically suitable for ARM Cortex-M microcontrollers. It is small, reliable and easy to use.
 * [protobuf-embedded-c](https://github.com/berezovskyi/protobuf-embedded-c) ⭐ 48 | 🐛 27 | 🌐 C | 📅 2015-09-26 - Protocol buffers generator for resource constrained embedded applications written in the C programming language.
 
 ### Ring Buffer
@@ -121,12 +121,12 @@ Permanent URL to this list: <https://github.com/iDoka/awesome-embedded-software>
 
 ### Filesystems
 
-* [littlefs](https://github.com/littlefs-project/littlefs) ⭐ 6,890 | 🐛 630 | 🌐 C | 📅 2026-03-25 - Little fail-safe filesystem designed for microcontrollers.
+* [littlefs](https://github.com/littlefs-project/littlefs) ⭐ 6,894 | 🐛 630 | 🌐 C | 📅 2026-03-25 - Little fail-safe filesystem designed for microcontrollers.
 * [SdFat](https://github.com/greiman/SdFat) ⭐ 1,208 | 🐛 241 | 🌐 C++ | 📅 2025-08-13 - Arduino FAT16/FAT32 exFAT Library.
 * [lwext4](https://github.com/gkostka/lwext4) ⭐ 592 | 🐛 34 | 🌐 C | 📅 2024-03-22 - An ext2/ext3/ext4 filesystem library for microcontrollers.
 * [LevelX](https://github.com/azure-rtos/levelx) ⭐ 153 | 🐛 27 | 🌐 C | 📅 2026-07-22 - Provides Flash Wear Leveling for FileX and Stand Alone purposes.
 * [uC-FS](https://github.com/weston-embedded/uC-FS) ⭐ 110 | 🐛 5 | 🌐 C | 📅 2021-05-20 - Compact, reliable, high-performance, and thread-safe embedded file system for microprocessors, microcontrollers, and DSPs. An optional journaling component provides fail-safe operation while maintaining FAT compatibility.
-* [fat32](https://github.com/strawberryhacker/fat32) ⭐ 104 | 🐛 0 | 🌐 C | 📅 2025-04-03 - Lighweight FAT32 file system written in C with no thirdparty dependencies. It requires a small port which provide functions for initializing, reading and writing to the MSD.
+* [fat32](https://github.com/strawberryhacker/fat32) ⭐ 105 | 🐛 0 | 🌐 C | 📅 2025-04-03 - Lighweight FAT32 file system written in C with no thirdparty dependencies. It requires a small port which provide functions for initializing, reading and writing to the MSD.
 * [fat\_io\_lib](https://github.com/ultraembedded/fat_io_lib) ⭐ 79 | 🐛 6 | 🌐 C | 📅 2019-04-23 - Small footprint, low dependency, C code implementation of a FAT16 & FAT32 driver.
 * [ufat](https://github.com/dlbeer/ufat) ⭐ 59 | 🐛 3 | 🌐 C | 📅 2023-04-25 - Low-memory feature-complete VFAT implementation.
 * [UFFS](https://github.com/rickyzheng/uffs) ⭐ 56 | 🐛 7 | 🌐 C | 📅 2021-03-18 - Filesystem for NAND devices with wear leveling and good fault tolerance.
@@ -150,8 +150,8 @@ Permanent URL to this list: <https://github.com/iDoka/awesome-embedded-software>
 
 ## Protocols
 
-* [nanoPB](https://github.com/nanopb/nanopb) ⭐ 5,521 | 🐛 79 | 🌐 C | 📅 2026-07-24 - Small code-size Protocol Buffers implementation in ANSI C. It is especially suitable for use in microcontrollers, but fits any memory restricted system.
-* [nanoMODBUS](https://github.com/debevv/nanoMODBUS) ⭐ 897 | 🐛 37 | 🌐 C | 📅 2026-02-01 - A compact MODBUS RTU/TCP C library for embedded/microcontrollers.
+* [nanoPB](https://github.com/nanopb/nanopb) ⭐ 5,522 | 🐛 79 | 🌐 C | 📅 2026-07-24 - Small code-size Protocol Buffers implementation in ANSI C. It is especially suitable for use in microcontrollers, but fits any memory restricted system.
+* [nanoMODBUS](https://github.com/debevv/nanoMODBUS) ⭐ 898 | 🐛 37 | 🌐 C | 📅 2026-02-01 - A compact MODBUS RTU/TCP C library for embedded/microcontrollers.
 * [TinyFrame](https://github.com/MightyPork/TinyFrame) ⭐ 432 | 🐛 10 | 🌐 C | 📅 2022-08-26 - Simple library for building and parsing data frames for serial interfaces (like UART / RS232).
 * [rcobs](https://github.com/Dirbaio/rcobs) ⭐ 16 | 🐛 0 | 🌐 Rust | 📅 2021-04-16 - Reverse-COBS encoding (rCOBS) is a variant of [COBS encoding](https://en.wikipedia.org/wiki/Consistent_Overhead_Byte_Stuffing) designed to allow encoding with zero lookahead.
 * [interchange](https://github.com/trussed-dev/interchange) ⭐ 15 | 🐛 2 | 🌐 Rust | 📅 2025-08-08 - Request/response mechanism for embedded development, using atomics.
@@ -168,7 +168,7 @@ Permanent URL to this list: <https://github.com/iDoka/awesome-embedded-software>
 * [uIP](https://github.com/adamdunkels/uip) ⭐ 1,080 | 🐛 5 | 🌐 C | 📅 2017-01-09 - Very small implementation of the TCP/IP stack that is written by Adam Dunkels.
 * [LRNDIS](https://github.com/fetisov/lrndis) ⭐ 368 | 🐛 4 | 🌐 C | 📅 2021-06-24 - Ethernet over USB (rndis + lwip).
 * [CycloneTCP](https://github.com/Oryx-Embedded/CycloneTCP) ⭐ 206 | 🐛 14 | 🌐 C | 📅 2026-05-29 - A dual IPv4/IPv6 stack dedicated to embedded applications. The stack is distributed as a full ANSI C and highly maintainable source code ([examples](https://www.oryx-embedded.com/download/CycloneTCP_SSL_SSH_CRYPTO_Open_2_2_4.zip) not included in GitHub's sources).
-* [LiveKit](https://github.com/livekit/client-sdk-esp32) ⭐ 145 | 🐛 14 | 🌐 C | 📅 2026-08-10 - ESP32 SDK for LiveKit: real-time audio, video, and data streaming.
+* [LiveKit](https://github.com/livekit/client-sdk-esp32) ⭐ 144 | 🐛 14 | 🌐 C | 📅 2026-08-10 - ESP32 SDK for LiveKit: real-time audio, video, and data streaming.
 * [HttpClient](https://github.com/nmattisson/HttpClient) ⭐ 121 | 🐛 8 | 🌐 C++ | 📅 2019-02-05 - Http Client Library.
 * [RawTCP\_Lib](https://github.com/h3xduck/RawTCP_Lib) ⭐ 73 | 🐛 0 | 🌐 C | 📅 2024-12-20 - C library for creating and using TCP/IP packets with raw network sockets.
 * [StaticNet](https://github.com/azonenberg/staticnet) ⭐ 41 | 🐛 7 | 🌐 C++ | 📅 2025-07-18 - C++ TCP/IP and SSH stack with all-static allocations designed for bare metal (no operating system) embedded applications with minimal footprint.
@@ -178,14 +178,14 @@ Permanent URL to this list: <https://github.com/iDoka/awesome-embedded-software>
 
 ### Web Server
 
-* [mongoose](https://github.com/cesanta/mongoose) ⭐ 12,994 | 🐛 4 | 🌐 C | 📅 2026-08-15 - Embedded Web Server and Embedded Networking Library. It implements event-driven non-blocking APIs for TCP, UDP, HTTP, WebSocket, MQTT.
+* [mongoose](https://github.com/cesanta/mongoose) ⭐ 13,000 | 🐛 4 | 🌐 C | 📅 2026-08-15 - Embedded Web Server and Embedded Networking Library. It implements event-driven non-blocking APIs for TCP, UDP, HTTP, WebSocket, MQTT.
 * [libevhtp](https://github.com/criticalstack/libevhtp) ⚠️ Archived - Extremely-fast and secure embedded HTTP servers with ease.
 * [libμhttpd](https://github.com/zhaojh329/libuhttpd) ⭐ 432 | 🐛 7 | 🌐 C | 📅 2025-08-08 - Very flexible, lightweight and fully asynchronous HTTP server library based on libev and http-parser.
 * [sandbird](https://github.com/rxi/sandbird) ⭐ 220 | 🐛 5 | 🌐 C | 📅 2019-10-27 - Tiny (800sloc) embeddable HTTP server written in C89.
 
 ### MQTT
 
-* [Paho MQTT](https://github.com/eclipse/paho.mqtt.embedded-c) ⭐ 1,538 | 🐛 92 | 🌐 C | 📅 2026-07-03 - C client library for embedded systems.
+* [Paho MQTT](https://github.com/eclipse/paho.mqtt.embedded-c) ⭐ 1,539 | 🐛 92 | 🌐 C | 📅 2026-07-03 - C client library for embedded systems.
 * [libemqtt 1](https://github.com/menudoproblema/libemqtt) ⭐ 225 | 🐛 6 | 🌐 C | 📅 2019-11-05 - Embedded C client library for the MQTT protocol.
 * [libumqtt 2](https://github.com/zhaojh329/libumqtt) ⭐ 196 | 🐛 2 | 🌐 C | 📅 2024-08-29 - Lightweight and fully asynchronous MQTT client C library based on libev.
 
@@ -217,7 +217,7 @@ Permanent URL to this list: <https://github.com/iDoka/awesome-embedded-software>
 
 #### Various protocols
 
-* [libCoAP](https://github.com/obgm/libcoap) ⭐ 918 | 🐛 67 | 🌐 C | 📅 2026-08-15 - C implementation of a lightweight application-protocol for devices that are constrained their resources such as computing power, RF range, memory, bandwidth, or network packet sizes. This protocol, CoAP, is standardized by the IETF as RFC 7252.
+* [libCoAP](https://github.com/obgm/libcoap) ⭐ 918 | 🐛 68 | 🌐 C | 📅 2026-08-15 - C implementation of a lightweight application-protocol for devices that are constrained their resources such as computing power, RF range, memory, bandwidth, or network packet sizes. This protocol, CoAP, is standardized by the IETF as RFC 7252.
 * [lwpkt](https://github.com/MaJerle/lwpkt) ⭐ 379 | 🐛 3 | 🌐 C | 📅 2026-08-15 - Lightweight packet protocol structure for multi-device communication focused on RS-485.
 * [MIN](https://github.com/min-protocol/min) ⭐ 283 | 🐛 25 | 🌐 Python | 📅 2024-01-30 - Microcontroller Interconnect Network protocol version 2.0.
 * [lwow](https://github.com/MaJerle/lwow) ⭐ 278 | 🐛 1 | 🌐 C | 📅 2026-08-15 - Lightweight onewire protocol library optimized for UART hardware on embedded systems.
@@ -228,15 +228,15 @@ Permanent URL to this list: <https://github.com/iDoka/awesome-embedded-software>
 
 ### Math
 
-* [FPM](https://github.com/MikeLankamp/fpm) ⭐ 834 | 🐛 21 | 🌐 C++ | 📅 2026-03-29 - C++ header-only fixed-point math library.
+* [FPM](https://github.com/MikeLankamp/fpm) ⭐ 835 | 🐛 21 | 🌐 C++ | 📅 2026-03-29 - C++ header-only fixed-point math library.
 * [liquid-fpm](https://github.com/jgaeddert/liquid-fpm) ⭐ 65 | 🐛 4 | 🌐 C | 📅 2015-09-01 - Software-Defined Radio Fixed-Point Math Library for embedded signal processing.
 * [Eigen](https://gitlab.com/libeigen/eigen) - C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms.
 
 ### DSP and Filtering
 
-* [liquid-dsp](https://github.com/jgaeddert/liquid-dsp) ⭐ 2,280 | 🐛 161 | 🌐 C | 📅 2026-08-17 - Digital signal processing library for software-defined radios.
-* [KISS FFT](https://github.com/mborgerding/kissfft) ⭐ 1,969 | 🐛 39 | 🌐 C | 📅 2026-08-12 - Mixed-radix Fast Fourier Transform based up on the principle, "Keep It Simple, Stupid".
-* [CMSIS-DSP](https://github.com/ARM-software/CMSIS-DSP) ⭐ 1,071 | 🐛 39 | 🌐 C | 📅 2026-08-14 - Embedded compute library for Cortex-M and Cortex-A.
+* [liquid-dsp](https://github.com/jgaeddert/liquid-dsp) ⭐ 2,279 | 🐛 161 | 🌐 C | 📅 2026-08-17 - Digital signal processing library for software-defined radios.
+* [KISS FFT](https://github.com/mborgerding/kissfft) ⭐ 1,970 | 🐛 39 | 🌐 C | 📅 2026-08-12 - Mixed-radix Fast Fourier Transform based up on the principle, "Keep It Simple, Stupid".
+* [CMSIS-DSP](https://github.com/ARM-software/CMSIS-DSP) ⭐ 1,071 | 🐛 40 | 🌐 C | 📅 2026-08-14 - Embedded compute library for Cortex-M and Cortex-A.
 * [iir1](https://github.com/berndporr/iir1) ⭐ 778 | 🐛 0 | 🌐 C++ | 📅 2025-07-07 - DSP IIR realtime filter library written in C++.
 * [pocketfft](https://github.com/mreineck/pocketfft) ⭐ 156 | 🐛 7 | 🌐 C++ | 📅 2026-06-30 - Heavily modified implementation of FFTPack.
 * [kalman-clib](https://github.com/sunsided/kalman-clib) ⭐ 142 | 🐛 0 | 🌐 C | 📅 2026-06-09 - Microcontroller targeted naive Kalman filter implementation in pure C.
@@ -248,7 +248,7 @@ Permanent URL to this list: <https://github.com/iDoka/awesome-embedded-software>
 ### Compression
 
 * [heatshrink](https://github.com/atomicobject/heatshrink) ⭐ 1,546 | 🐛 42 | 🌐 C | 📅 2024-05-19 - Data compression library for embedded/real-time systems.
-* [SMAZ](https://github.com/antirez/smaz) ⭐ 1,220 | 🐛 13 | 🌐 C | 📅 2019-10-25 - Compression for very small strings.
+* [SMAZ](https://github.com/antirez/smaz) ⭐ 1,221 | 🐛 13 | 🌐 C | 📅 2019-10-25 - Compression for very small strings.
 * [shoco](https://github.com/Ed-von-Schleck/shoco) ⭐ 390 | 🐛 32 | 🌐 C | 📅 2026-02-16 - C library to compress and decompress short strings. It is very fast and easy to use. The default compression model is optimized for english words, but you can generate your own compression model.
 * [Unishox2](https://github.com/siara-cc/Unishox2) ⭐ 247 | 🐛 15 | 🌐 C | 📅 2026-01-10 - Hybrid encoder for Short Unicode Strings (Unishox provides the best compression for short text and not to be compared with general purpose compression algorithm like lz4, snappy, lzma, brottli and zstd).
 * [TCOBS](https://github.com/rokath/tcobs) ⭐ 31 | 🐛 2 | 🌐 C | 📅 2026-04-29 - Short messages compression with COBS framing using implicit run-length-encoding, optimized for data containing statistically a bit more 0 and FF bytes in a row, as data often carry 16, 32 or 64 bit numbers with small values.
@@ -264,31 +264,31 @@ Artificial Intelligence and Machine Learning
 * [libonnx](https://github.com/xboot/libonnx) ⭐ 653 | 🐛 16 | 🌐 C | 📅 2026-07-07 - Lightweight, portable pure C99 onnx inference engine for embedded devices with hardware acceleration support.
 * [Cranium](https://github.com/100/Cranium) ⭐ 604 | 🐛 10 | 🌐 C | 📅 2023-10-29 - Portable, header-only, feedforward artificial neural network library written in vanilla C99.
 * [Fido](https://github.com/FidoProject/Fido) ⭐ 463 | 🐛 15 | 🌐 C++ | 📅 2020-01-05 - Lightweight C++ machine learning library for embedded electronics and robotics.
-* [edge-agents (ForestHub)](https://github.com/ForestHubAI/edge-agents) ⭐ 97 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-29 - Open-source (AGPL-3.0) 30 MB AI agent runtime for edge devices. Offline by default; GPIO/UART/MQTT as first-class nodes; local SLMs alongside cloud LLMs. Runs on Raspberry Pi, Jetson, STM32MP25.
+* [edge-agents (ForestHub)](https://github.com/ForestHubAI/edge-agents) ⭐ 98 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-29 - Open-source (AGPL-3.0) 30 MB AI agent runtime for edge devices. Offline by default; GPIO/UART/MQTT as first-class nodes; local SLMs alongside cloud LLMs. Runs on Raspberry Pi, Jetson, STM32MP25.
 * [caffepresso](https://github.com/gplhegde/caffepresso) ⭐ 88 | 🐛 0 | 🌐 C | 📅 2024-10-16 - Optimized Library for Deep Learning on Embedded Accelerator-based platforms.
 
 ### CV
 
 Computer Vision
 
-* [Embedded SOD](https://github.com/symisc/sod) ⭐ 1,799 | 🐛 7 | 🌐 C | 📅 2023-10-20 - Embedded Computer Vision & Machine Learning Library (CPU Optimized & IoT Capable).
+* [Embedded SOD](https://github.com/symisc/sod) ⭐ 1,798 | 🐛 7 | 🌐 C | 📅 2023-10-20 - Embedded Computer Vision & Machine Learning Library (CPU Optimized & IoT Capable).
 * [QR-Image-embedded](https://github.com/swex/QR-Image-embedded) ⭐ 74 | 🐛 0 | 🌐 C | 📅 2020-01-15 - QR library fork for embedded systems.
 
 ## Cryptography
 
 ### General
 
-* [mbedTLS](https://github.com/Mbed-TLS/mbedtls) ⭐ 6,874 | 🐛 1,729 | 🌐 C | 📅 2026-08-14 - Open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API.
+* [mbedTLS](https://github.com/Mbed-TLS/mbedtls) ⭐ 6,876 | 🐛 1,730 | 🌐 C | 📅 2026-08-14 - Open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API.
 * [tiny-AES-c](https://github.com/kokke/tiny-AES-c) ⭐ 4,997 | 🐛 33 | 🌐 C | 📅 2024-10-04 - Small portable AES128/192/256 in C.
-* 🔝[trezor-crypto](https://github.com/trezor/trezor-firmware/tree/master/crypto) ⭐ 1,806 | 🐛 716 | 🌐 C | 📅 2026-08-17 - Heavily optimized cryptography algorithms for embedded Devices.
+* 🔝[trezor-crypto](https://github.com/trezor/trezor-firmware/tree/master/crypto) ⭐ 1,807 | 🐛 722 | 🌐 C | 📅 2026-08-18 - Heavily optimized cryptography algorithms for embedded Devices.
 * [LibTomCrypt](https://github.com/libtom/libtomcrypt) ⭐ 1,785 | 🐛 49 | 🌐 C | 📅 2026-08-08 - Fairly comprehensive, modular and portable cryptographic toolkit that provides developers with a vast array of well known published block ciphers, one-way hash functions, chaining modes, pseudo-random number generators, public key cryptography and a plethora of other routines.
 * [LibHydrogen](https://github.com/jedisct1/libhydrogen) ⭐ 779 | 🐛 0 | 🌐 C | 📅 2026-08-14 - Lightweight, secure, easy-to-use crypto library suitable for constrained environments.
-* [Monocypher](https://github.com/LoupVaillant/Monocypher) ⭐ 776 | 🐛 9 | 🌐 C | 📅 2026-07-28 - Easy to use, easy to deploy, auditable crypto library written in portable C.
-* [tlse](https://github.com/eduardsui/tlse) ⭐ 682 | 🐛 31 | 🌐 C | 📅 2026-08-07 - Single C file TLS 1.2/1.3 implementation, using tomcrypt as crypto library.
+* [Monocypher](https://github.com/LoupVaillant/Monocypher) ⭐ 775 | 🐛 9 | 🌐 C | 📅 2026-07-28 - Easy to use, easy to deploy, auditable crypto library written in portable C.
+* [tlse](https://github.com/eduardsui/tlse) ⭐ 683 | 🐛 31 | 🌐 C | 📅 2026-08-07 - Single C file TLS 1.2/1.3 implementation, using tomcrypt as crypto library.
 * [tinycrypt](https://github.com/intel/tinycrypt) ⚠️ Archived - Library of cryptographic algorithms provides an implementation for constrained devices of a minimal set of standard cryptography primitives.
 * [trussed](https://github.com/trussed-dev/trussed) ⭐ 500 | 🐛 18 | 🌐 Rust | 📅 2026-07-22 - Minimal, modular way to write cryptographic applications on microcontroller platforms (Rust).
 * [arduinolibs](https://github.com/rweather/arduinolibs) ⭐ 477 | 🐛 38 | 🌐 C++ | 📅 2024-05-26 - Arduino Cryptography Library.
-* [wolfTPM](https://github.com/wolfSSL/wolfTPM) ⭐ 337 | 🐛 2 | 🌐 C | 📅 2026-08-14 - Highly portable TPM 2.0 library, designed for embedded use.
+* [wolfTPM](https://github.com/wolfSSL/wolfTPM) ⭐ 337 | 🐛 3 | 🌐 C | 📅 2026-08-17 - Highly portable TPM 2.0 library, designed for embedded use.
 * 🔝[liblithium](https://github.com/teslamotors/liblithium) ⭐ 325 | 🐛 0 | 🌐 C | 📅 2026-03-28 - Lightweight cryptography library that is portable by design. It requires only standard C99 and does not assume 8-bit addressability, making it suitable for use on some DSP architectures as well as mainstream architectures.
 * [poly1305-donna](https://github.com/floodyberry/poly1305-donna) ⭐ 122 | 🐛 6 | 🌐 C | 📅 2022-09-28 -  Implementations of a fast Message-Authentication Code (8 bit, 16 bit, 32 bit and 64 bit multiplies versions).
 * [µAES](https://github.com/polfosol/micro-AES) ⭐ 74 | 🐛 1 | 🌐 C | 📅 2026-04-29 - Lightweight, highly flexible, portable and ANSI-C compatible implementation of the AES encryption and block cipher modes.
@@ -307,12 +307,12 @@ Computer Vision
 ### Random Number Generation
 
 * [pcg-c-basic](https://github.com/imneme/pcg-c-basic) ⭐ 447 | 🐛 18 | 🌐 C | 📅 2023-11-25 - Code provides a minimal implementation of one member of the PCG family of random number generators, which are fast, statistically excellent, and offer a number of useful features.
-* [pcg-c](https://github.com/imneme/pcg-c) ⭐ 422 | 🐛 10 | 🌐 C | 📅 2023-10-26 - Code provides an implementation of the PCG family of random number generators, which are fast, statistically excellent, and offer a number of useful features.
+* [pcg-c](https://github.com/imneme/pcg-c) ⭐ 421 | 🐛 10 | 🌐 C | 📅 2023-10-26 - Code provides an implementation of the PCG family of random number generators, which are fast, statistically excellent, and offer a number of useful features.
 
 ## OS
 
-* [LK kernel](https://github.com/littlekernel/lk) ⭐ 3,663 | 🐛 100 | 🌐 C | 📅 2026-08-17 - The Little Kernel Embedded Operating System is SMP-aware kernel designed for small systems ported to a variety of platforms and cpu architectures.
-* [QuarkTS](https://github.com/kmilo17pet/QuarkTS) ⭐ 348 | 🐛 4 | 🌐 C | 📅 2025-10-27 - OS for embedded applications that supports prioritized cooperative scheduling, time control, inter-task communications primitives, hierarchical state machines and CoRoutines.
+* [LK kernel](https://github.com/littlekernel/lk) ⭐ 3,663 | 🐛 100 | 🌐 C | 📅 2026-08-18 - The Little Kernel Embedded Operating System is SMP-aware kernel designed for small systems ported to a variety of platforms and cpu architectures.
+* [QuarkTS](https://github.com/kmilo17pet/QuarkTS) ⭐ 349 | 🐛 4 | 🌐 C | 📅 2025-10-27 - OS for embedded applications that supports prioritized cooperative scheduling, time control, inter-task communications primitives, hierarchical state machines and CoRoutines.
 * [vanilla](https://github.com/strawberryhacker/vanilla) ⭐ 38 | 🐛 17 | 🌐 C | 📅 2020-10-17 - Bare metal ARM® Cortex®-M7 operating system.
 * [citrus](https://github.com/strawberryhacker/citrus) ⭐ 35 | 🐛 22 | 🌐 C | 📅 2021-01-20 - Bare metal ARM® Cortex®-A5 operating system.
 * 🔝[chaos](https://github.com/strawberryhacker/chaos) - Bare metal multicore ARM® Cortex®-A operating system based on a microkernel architecture.
@@ -320,20 +320,20 @@ Computer Vision
 
 ### RTOS
 
-* [Zephyr](https://github.com/zephyrproject-rtos/zephyr) ⭐ 16,233 | 🐛 3,864 | 🌐 C | 📅 2026-08-17 - New generation, scalable, optimized, secure RTOS for multiple hardware architectures.
-* [RT-Thread](https://github.com/RT-Thread/rt-thread) ⭐ 12,157 | 🐛 480 | 🌐 C | 📅 2026-08-17 - RT-Thread was born in 2006, it is an open source, neutral, and community-based real-time operating system (RTOS). RT-Thread has Standard version and Nano version. For resource-constrained microcontroller (MCU) systems, the NANO kernel version that requires only 3KB Flash and 1.2KB RAM memory resources can be tailored with easy-to-use tools; And for resource-rich IoT devices, RT-Thread can use the on-line software package management tool, together with system configuration tools, to achieve intuitive and rapid modular cutting, seamlessly import rich software packages, thus achieving complex functions like Android's graphical interface and touch sliding effects, smart voice interaction effects, and so on.
-* 🔝[FreeRTOS™](https://github.com/FreeRTOS/FreeRTOS) ⭐ 7,693 | 🐛 33 | 🌐 C | 📅 2026-07-22 - FreeRTOS.
-* [Tock Embedded OS](https://github.com/tock/tock) ⭐ 6,412 | 🐛 206 | 🌐 Rust | 📅 2026-08-15 - Embedded operating system designed for running multiple concurrent, mutually distrustful applications on low-memory and low-power microcontrollers *(Rust)*.
-* [RIOT](https://github.com/RIOT-OS/RIOT) ⭐ 5,777 | 🐛 870 | 🌐 C | 📅 2026-08-17 - Real-time multi-threading operating system that supports a range of devices that are typically found in the Internet of Things (IoT): 8-bit, 16-bit and 32-bit microcontrollers. RIOT is based on the following design principles: energy-efficiency, real-time capabilities, small memory footprint, modularity, and uniform API access, independent of the underlying hardware (this API offers partial POSIX compliance).
+* [Zephyr](https://github.com/zephyrproject-rtos/zephyr) ⭐ 16,243 | 🐛 3,931 | 🌐 C | 📅 2026-08-18 - New generation, scalable, optimized, secure RTOS for multiple hardware architectures.
+* [RT-Thread](https://github.com/RT-Thread/rt-thread) ⭐ 12,159 | 🐛 485 | 🌐 C | 📅 2026-08-17 - RT-Thread was born in 2006, it is an open source, neutral, and community-based real-time operating system (RTOS). RT-Thread has Standard version and Nano version. For resource-constrained microcontroller (MCU) systems, the NANO kernel version that requires only 3KB Flash and 1.2KB RAM memory resources can be tailored with easy-to-use tools; And for resource-rich IoT devices, RT-Thread can use the on-line software package management tool, together with system configuration tools, to achieve intuitive and rapid modular cutting, seamlessly import rich software packages, thus achieving complex functions like Android's graphical interface and touch sliding effects, smart voice interaction effects, and so on.
+* 🔝[FreeRTOS™](https://github.com/FreeRTOS/FreeRTOS) ⭐ 7,695 | 🐛 33 | 🌐 C | 📅 2026-07-22 - FreeRTOS.
+* [Tock Embedded OS](https://github.com/tock/tock) ⭐ 6,413 | 🐛 203 | 🌐 Rust | 📅 2026-08-18 - Embedded operating system designed for running multiple concurrent, mutually distrustful applications on low-memory and low-power microcontrollers *(Rust)*.
+* [RIOT](https://github.com/RIOT-OS/RIOT) ⭐ 5,777 | 🐛 866 | 🌐 C | 📅 2026-08-18 - Real-time multi-threading operating system that supports a range of devices that are typically found in the Internet of Things (IoT): 8-bit, 16-bit and 32-bit microcontrollers. RIOT is based on the following design principles: energy-efficiency, real-time capabilities, small memory footprint, modularity, and uniform API access, independent of the underlying hardware (this API offers partial POSIX compliance).
 * [Arm Mbed OS](https://github.com/ARMmbed/mbed-os) ⭐ 4,867 | 🐛 211 | 🌐 C | 📅 2024-10-08 - Platform operating system designed for the Internet of Things. It includes all the features you need to develop a connected product based on an Arm Cortex-M microcontroller, including security, connectivity, an RTOS and drivers for sensors and I/O devices.
-* [Apache NuttX](https://github.com/apache/incubator-nuttx) ⭐ 3,997 | 🐛 768 | 🌐 C | 📅 2026-08-17 - Apache NuttX is a mature, real-time embedded operating system (RTOS).
-* [Azure RTOS ThreadX](https://github.com/azure-rtos/threadx) ⭐ 3,504 | 🐛 91 | 🌐 C | 📅 2026-08-17 - Advanced real-time operating system (RTOS) designed specifically for deeply embedded applications.
-* [embox](https://github.com/embox/embox) ⭐ 1,583 | 🐛 216 | 🌐 C | 📅 2026-08-17 - Configurable RTOS designed for resource constrained and embedded systems. Embox main idea is using Linux software without Linux.
-* [QP/C](https://github.com/QuantumLeaps/qpc) ⭐ 1,350 | 🐛 4 | 🌐 C | 📅 2026-08-12 - Real-time embedded framework/RTOS for embedded systems based on active objects (actors) and hierarchical state machines (FuSa, MISRA-C 2023 compliance).
+* [Apache NuttX](https://github.com/apache/incubator-nuttx) ⭐ 3,999 | 🐛 757 | 🌐 C | 📅 2026-08-18 - Apache NuttX is a mature, real-time embedded operating system (RTOS).
+* [Azure RTOS ThreadX](https://github.com/azure-rtos/threadx) ⭐ 3,506 | 🐛 92 | 🌐 C | 📅 2026-08-18 - Advanced real-time operating system (RTOS) designed specifically for deeply embedded applications.
+* [embox](https://github.com/embox/embox) ⭐ 1,587 | 🐛 218 | 🌐 C | 📅 2026-08-17 - Configurable RTOS designed for resource constrained and embedded systems. Embox main idea is using Linux software without Linux.
+* [QP/C](https://github.com/QuantumLeaps/qpc) ⭐ 1,352 | 🐛 4 | 🌐 C | 📅 2026-08-18 - Real-time embedded framework/RTOS for embedded systems based on active objects (actors) and hierarchical state machines (FuSa, MISRA-C 2023 compliance).
 * [µC/OS-III](https://github.com/weston-embedded/uC-OS3) ⭐ 1,084 | 🐛 4 | 🌐 C | 📅 2026-07-15 - Preemptive, highly portable, and scalable real-time kernel. Designed for ease of use on a huge number of CPU architectures.
 * [MuditaOS](https://github.com/mudita/MuditaOS) ⭐ 934 | 🐛 67 | 🌐 C | 📅 2026-06-13 - Mobile operating system based on FreeRTOS optimized for E Ink displays - developed for Mudita Pure minimalist phone.
-* [ChibiOS/RT](https://github.com/ChibiOS/ChibiOS) ⭐ 854 | 🐛 21 | 🌐 C | 📅 2026-05-31 - Compact and fast real-time operating system supporting multiple architectures designed for embedded applications on microcontrollers of 8-, 16-, and 32-bits.
-* [µC/OS-II](https://github.com/weston-embedded/uC-OS2) ⭐ 734 | 🐛 3 | 🌐 C | 📅 2023-01-05 - Preemptive, highly portable, and scalable real-time kernels. Designed for ease of use on a huge number of CPU architectures.
+* [ChibiOS/RT](https://github.com/ChibiOS/ChibiOS) ⭐ 855 | 🐛 21 | 🌐 C | 📅 2026-05-31 - Compact and fast real-time operating system supporting multiple architectures designed for embedded applications on microcontrollers of 8-, 16-, and 32-bits.
+* [µC/OS-II](https://github.com/weston-embedded/uC-OS2) ⭐ 733 | 🐛 3 | 🌐 C | 📅 2023-01-05 - Preemptive, highly portable, and scalable real-time kernels. Designed for ease of use on a huge number of CPU architectures.
 * [distortos](https://github.com/DISTORTEC/distortos) ⭐ 468 | 🐛 4 | 🌐 C++ | 📅 2026-07-16 - Object-oriented C++ RTOS for microcontrollers.
 * [scmRTOS](https://github.com/scmrtos/scmrtos) ⭐ 276 | 🐛 2 | 🌐 C++ | 📅 2026-03-13 - Tiny Real-Time Preemptive Operating System intended for use with Single-Chip Microcontrollers. scmRTOS is capable to run on tiny uCs with as small amount of RAM as 512 bytes. The RTOS is written on C++ and supports various platforms.
 * [R3-OS](https://github.com/r3-os/r3) ⭐ 177 | 🐛 7 | 🌐 Rust | 📅 2023-04-22 - Experimental static (μITRON-esque) RTOS for deeply embedded systems, testing the limit of Rust's const eval and generics *(Rust)*.
@@ -356,7 +356,7 @@ Computer Vision
 
 * [embedded-cli](https://github.com/funbiscuit/embedded-cli) ⭐ 379 | 🐛 9 | 🌐 C | 📅 2026-03-11 - Single-header CLI with history and autocompletion for embedded systems.
 * [microshell](https://github.com/marcinbor85/microshell) ⭐ 362 | 🐛 8 | 🌐 C | 📅 2024-06-20 - Lightweight pure C implementation of virtual shell, compatible with VT100 terminal. Support root tree, run-time mounting paths, global commands, and much more.
-* [microrl](https://github.com/Helius/microrl) ⭐ 293 | 🐛 16 | 🌐 C | 📅 2023-10-29 - Micro read line library for small and embedded devices with basic VT100 support.
+* [microrl](https://github.com/Helius/microrl) ⭐ 294 | 🐛 16 | 🌐 C | 📅 2023-10-29 - Micro read line library for small and embedded devices with basic VT100 support.
 * [terminal](https://github.com/JingoC/terminal) ⭐ 47 | 🐛 0 | 🌐 C | 📅 2025-07-02 - Command Line Interface for microcontrollers. Flexible terminal settings allow you to integrate it with any microcontroller, without much effort.
 * [SerialMenu](https://github.com/sonyhome/SerialMenu) ⭐ 30 | 🐛 6 | 🌐 C++ | 📅 2019-11-15 - Arduino library to easily create menus on the serial console.
 * [microsh](https://github.com/dimmykar/microsh) ⭐ 17 | 🐛 1 | 🌐 C | 📅 2023-10-22 - Shell for Small Embedded Devices.
@@ -372,8 +372,8 @@ Computer Vision
 
 ### printf
 
-* [fmt](https://github.com/fmtlib/fmt) ⭐ 23,743 | 🐛 10 | 🌐 C++ | 📅 2026-08-16 - Modern formatting library providing a fast and safe alternative to C stdio and C++ iostreams.
-* [tiny-printf](https://github.com/mpaland/printf) ⭐ 3,043 | 🐛 66 | 🌐 C | 📅 2023-04-03 - Tiny, fast, non-dependent and fully loaded printf implementation for embedded systems. Extensive test suite passing.
+* [fmt](https://github.com/fmtlib/fmt) ⭐ 23,744 | 🐛 10 | 🌐 C++ | 📅 2026-08-16 - Modern formatting library providing a fast and safe alternative to C stdio and C++ iostreams.
+* [tiny-printf](https://github.com/mpaland/printf) ⭐ 3,044 | 🐛 66 | 🌐 C | 📅 2023-04-03 - Tiny, fast, non-dependent and fully loaded printf implementation for embedded systems. Extensive test suite passing.
 * [nanoprintf](https://github.com/charlesnicholson/nanoprintf) ⭐ 838 | 🐛 7 | 🌐 C++ | 📅 2026-08-10 - The smallest public printf implementation for its feature set.
 * [tiny-printf new](https://github.com/eyalroz/printf) ⭐ 633 | 🐛 13 | 🌐 C | 📅 2026-06-27 - Enhanced and maintained fork of `tiny-printf`. Tiny, fast(ish), self-contained and fully loaded printf, sprinf etc.
 * [lwprintf](https://github.com/MaJerle/lwprintf) ⭐ 345 | 🐛 3 | 🌐 C | 📅 2026-08-15 - Lightweight printf library optimized for embedded systems.
@@ -392,18 +392,18 @@ Computer Vision
 
 ### Logging
 
-* [spdlog](https://github.com/gabime/spdlog) ⭐ 29,486 | 🐛 49 | 🌐 C++ | 📅 2026-08-08 - Very fast, header-only/compiled, C++ logging library.
-* [EasyLogger](https://github.com/armink/EasyLogger) ⭐ 4,715 | 🐛 80 | 🌐 C | 📅 2026-08-13 - Ultra-lightweight (ROM<1.6K, RAM<0.3k), high-performance C/C++ log library.
-* [trice](https://github.com/rokath/trice) ⭐ 975 | 🐛 0 | 🌐 C | 📅 2026-08-17 - Super fast and tiny embedded device C printf-like trace code (works also inside interrupts) and real-time PC logging (trace ID visualization).
+* [spdlog](https://github.com/gabime/spdlog) ⭐ 29,491 | 🐛 49 | 🌐 C++ | 📅 2026-08-08 - Very fast, header-only/compiled, C++ logging library.
+* [EasyLogger](https://github.com/armink/EasyLogger) ⭐ 4,716 | 🐛 80 | 🌐 C | 📅 2026-08-13 - Ultra-lightweight (ROM<1.6K, RAM<0.3k), high-performance C/C++ log library.
+* [trice](https://github.com/rokath/trice) ⭐ 975 | 🐛 1 | 🌐 Go | 📅 2026-08-18 - Super fast and tiny embedded device C printf-like trace code (works also inside interrupts) and real-time PC logging (trace ID visualization).
 * [elog](https://github.com/martinribelotta/elog) ⭐ 46 | 🐛 0 | 🌐 C | 📅 2026-05-18 - Log system is thinked for embedded systems with mininmal resource utilization. The log system is designed to minimize memory compsumition in flash or RAM, enable an eficient in-ram loggin buffer with very efficient storage.
 * [embedded-log](https://github.com/to9/embedded-log) ⭐ 28 | 🐛 1 | 🌐 C | 📅 2023-11-23 - Small and beautiful embedded log library for mcu.
 * [embedded-diagnostic-logger](https://github.com/binarymaker/embedded-diagnostic-logger) ⭐ 10 | 🐛 1 | 🌐 C | 📅 2020-01-14 - Lightweight logger framework for small microcontroller based projects. Multilevel log and token based string transfer.
 
 ## GUI
 
-* [lvgl](https://github.com/lvgl/lvgl) ⭐ 24,400 | 🐛 224 | 🌐 C | 📅 2026-08-17 - Powerful and easy-to-use embedded GUI with many widgets, advanced visual effects (opacity, antialiasing, animations) and low memory requirements (16K RAM, 64K Flash).
-* 🔝[u8g2](https://github.com/olikraus/u8g2) ⭐ 6,637 | 🐛 288 | 🌐 C | 📅 2026-06-27 - U8glib library for monochrome displays, version 2.
-* [LovyanGFX](https://github.com/lovyan03/LovyanGFX/) ⭐ 1,731 | 🐛 16 | 🌐 C | 📅 2026-08-17 - Display (LCD / OLED / EPD) graphics library (for ESP32 SPI, I2C, 8bitParallel / ESP8266 SPI, I2C / RP2040 SPI / ATSAMD51 SPI and more).
+* [lvgl](https://github.com/lvgl/lvgl) ⭐ 24,408 | 🐛 220 | 🌐 C | 📅 2026-08-18 - Powerful and easy-to-use embedded GUI with many widgets, advanced visual effects (opacity, antialiasing, animations) and low memory requirements (16K RAM, 64K Flash).
+* 🔝[u8g2](https://github.com/olikraus/u8g2) ⭐ 6,638 | 🐛 289 | 🌐 C | 📅 2026-06-27 - U8glib library for monochrome displays, version 2.
+* [LovyanGFX](https://github.com/lovyan03/LovyanGFX/) ⭐ 1,733 | 🐛 15 | 🌐 C | 📅 2026-08-17 - Display (LCD / OLED / EPD) graphics library (for ESP32 SPI, I2C, 8bitParallel / ESP8266 SPI, I2C / RP2040 SPI / ATSAMD51 SPI and more).
 * [UGUI (µGUI)](https://github.com/achimdoebler/UGUI) ⭐ 1,387 | 🐛 43 | 🌐 C | 📅 2023-10-29 - A graphic library. It supports color, grayscale, monochrome and multiple displays, touch screen, windows and objects, basic geometric primitives, fonts, console. There is no required dynamic allocation and memory for screen buffer. Documentation available on [developer's website](https://embeddedlightning.com/download/%c2%b5gui-v0-3/).
 * [Embedded-graphics](https://github.com/embedded-graphics/embedded-graphics) ⭐ 1,327 | 🐛 88 | 🌐 Rust | 📅 2026-08-02 - 2D graphics library that is focused on memory constrained embedded devices to draw graphics without using any buffers (Rust).
 * [HAGL](https://github.com/tuupola/hagl) ⭐ 465 | 🐛 20 | 🌐 C | 📅 2026-04-03 - Lightweight Hardware Agnostic Graphics Library for embedded devices. It supports basic geometric primitives, bitmaps, blitting, fixed width fonts. Library tries to stay lightweight but targets reasonably powerful microchips such as ESP32. There is no dynamic allocation.
@@ -451,7 +451,7 @@ Computer Vision
 
 ### USB
 
-* [tinyusb](https://github.com/hathach/tinyusb) ⭐ 7,041 | 🐛 243 | 🌐 C | 📅 2026-08-17 - Cross-platform USB stack for embedded system.
+* [tinyusb](https://github.com/hathach/tinyusb) ⭐ 7,043 | 🐛 243 | 🌐 C | 📅 2026-08-18 - Cross-platform USB stack for embedded system.
 * [libusb\_stm32](https://github.com/dmitrystu/libusb_stm32) ⭐ 825 | 🐛 29 | 🌐 C | 📅 2025-10-06 - Lightweight USB device Stack for STM32 microcontrollers.
 * [CherryUSB](https://github.com/CherryUSB) - Tiny, beautiful and portable USB host and device stack for embedded system with USB.
 
@@ -473,14 +473,14 @@ Computer Vision
 
 ### Bootloaders
 
-* [mcuboot](https://github.com/mcu-tools/mcuboot) ⭐ 2,030 | 🐛 102 | 🌐 C | 📅 2026-08-13 - Secure boot for 32-bit Microcontrollers.
-* [OpenBLT](https://github.com/feaser/openblt) ⭐ 964 | 🐛 0 | 🌐 C | 📅 2026-07-14 - Open source bootloader for STM32, XMC, HCS12 and other microcontroller targets. It supports communication interfaces such as: RS232, CAN, USB, TCP/IP and it ships with the easy-to-use [MicroBoot](https://www.feaser.com/openblt/doku.php?id=manual:microboot) PC tool for initiating and monitoring the firmware update. Performing firmware updates directly from an SD-card is also supported.
-* [wolfBoot](https://github.com/wolfSSL/wolfBoot) ⭐ 521 | 🐛 12 | 🌐 C | 📅 2026-08-14 - Portable, OS-agnostic, secure bootloader for microcontrollers, supporting firmware authentication and firmware update mechanisms.
+* [mcuboot](https://github.com/mcu-tools/mcuboot) ⭐ 2,030 | 🐛 101 | 🌐 C | 📅 2026-08-13 - Secure boot for 32-bit Microcontrollers.
+* [OpenBLT](https://github.com/feaser/openblt) ⭐ 966 | 🐛 0 | 🌐 C | 📅 2026-07-14 - Open source bootloader for STM32, XMC, HCS12 and other microcontroller targets. It supports communication interfaces such as: RS232, CAN, USB, TCP/IP and it ships with the easy-to-use [MicroBoot](https://www.feaser.com/openblt/doku.php?id=manual:microboot) PC tool for initiating and monitoring the firmware update. Performing firmware updates directly from an SD-card is also supported.
+* [wolfBoot](https://github.com/wolfSSL/wolfBoot) ⭐ 521 | 🐛 12 | 🌐 C | 📅 2026-08-18 - Portable, OS-agnostic, secure bootloader for microcontrollers, supporting firmware authentication and firmware update mechanisms.
 * [TinyUF2](https://github.com/adafruit/tinyuf2) ⭐ 468 | 🐛 15 | 🌐 C | 📅 2026-08-13 - Bootloader based on TinyUSB for embedded devices such as ESP32, STM32 and iMX RT10xx.
 
 ### Firmware updates
 
-* [SWupdate](https://github.com/sbabic/swupdate) ⭐ 1,854 | 🐛 11 | 🌐 C | 📅 2026-08-17 - Software Update for Embedded Linux Devices to update system in field. SWUpdate supports local and OTA updates, multiple update strategies and it is designed with security in mind.
+* [SWupdate](https://github.com/sbabic/swupdate) ⭐ 1,855 | 🐛 11 | 🌐 C | 📅 2026-08-18 - Software Update for Embedded Linux Devices to update system in field. SWUpdate supports local and OTA updates, multiple update strategies and it is designed with security in mind.
 * [UF2](https://github.com/microsoft/uf2) ⭐ 1,030 | 🐛 24 | 🌐 JavaScript | 📅 2026-02-08 - USB Flashing Format specification for flashing microcontrollers over MSC (Mass Storage Class; aka removable flash drive).
 
 ### Touch Screen
@@ -498,9 +498,9 @@ Computer Vision
 
 ## Compilers
 
-* [TinyGo](https://github.com/tinygo-org/tinygo) ⭐ 17,652 | 🐛 566 | 🌐 Go | 📅 2026-08-16 - Go compiler for small things: Microcontrollers, WebAssembly (WASM/WASI), and command-line tools (Based on LLVM).
-* [chibicc](https://github.com/rui314/chibicc) ⭐ 11,816 | 🐛 127 | 🌐 C | 📅 2023-10-30 - Yet another small C compiler that implements most C11 features.
-* [lcc](https://github.com/drh/lcc) ⭐ 2,603 | 🐛 43 | 🌐 C | 📅 2024-10-06 - Retargetable ANSI C Compiler (fork for [ULP in ESP32](https://github.com/jasonful/lcc) ⭐ 99 | 🐛 3 | 🌐 C | 📅 2021-05-29).
+* [TinyGo](https://github.com/tinygo-org/tinygo) ⭐ 17,653 | 🐛 567 | 🌐 Go | 📅 2026-08-16 - Go compiler for small things: Microcontrollers, WebAssembly (WASM/WASI), and command-line tools (Based on LLVM).
+* [chibicc](https://github.com/rui314/chibicc) ⭐ 11,821 | 🐛 127 | 🌐 C | 📅 2023-10-30 - Yet another small C compiler that implements most C11 features.
+* [lcc](https://github.com/drh/lcc) ⭐ 2,604 | 🐛 43 | 🌐 C | 📅 2024-10-06 - Retargetable ANSI C Compiler (fork for [ULP in ESP32](https://github.com/jasonful/lcc) ⭐ 99 | 🐛 3 | 🌐 C | 📅 2021-05-29).
 * [pcc](http://pcc.ludd.ltu.se/) - Portable C Compiler ([mirror](https://github.com/IanHarvey/pcc) ⭐ 138 | 🐛 4 | 🌐 C | 📅 2024-08-01).
 * [rvcc](https://github.com/mausimus/rvcc) ⭐ 100 | 🐛 0 | 🌐 C | 📅 2024-05-01 - Bootstrapped C compiler for 32-bit RISC-V and ARM ISAs (generates executable Linux ELF binaries for RV32IM and ARMv7).
 * [SDCC](https://sdcc.sourceforge.net/) - Small Device C Compiler (that targets the Intel MCS51 based microprocessors (8031, 8032, 8051, 8052, etc.), Maxim (formerly Dallas) DS80C390 variants, Freescale (formerly Motorola) HC08 based (hc08, s08), Zilog Z80 based MCUs (Z80, Z180, SM83, Rabbit 2000, 2000A, 3000A, TLCS-90), Padauk (pdk14, pdk15) and STMicroelectronics STM8).
@@ -510,8 +510,8 @@ Computer Vision
 
 * [incbin](https://github.com/graphitemaster/incbin) ⭐ 1,182 | 🐛 10 | 🌐 C | 📅 2025-05-26 - One-header library for compile-time embedding binary and textual files.
 * [modm](https://github.com/modm-io/modm) ⭐ 962 | 🐛 68 | 🌐 C++ | 📅 2026-08-07 - Barebone embedded C++20 library generator for AVR, SAM and ARM Cortex-M Microcontrollers (supported 3534 devices).
-* [Apache NuttX Apps](https://github.com/apache/incubator-nuttx-apps) ⭐ 453 | 🐛 65 | 🌐 C | 📅 2026-08-17 - Collection of tools, shells, network utilities, libraries, interpreters and can be used with the NuttX RTOS.
-* [WTX](https://github.com/c410-f3r/wtx) ⭐ 396 | 🐛 8 | 🌐 Rust | 📅 2026-08-14 - A set of web-oriented tools.
+* [Apache NuttX Apps](https://github.com/apache/incubator-nuttx-apps) ⭐ 455 | 🐛 65 | 🌐 C | 📅 2026-08-18 - Collection of tools, shells, network utilities, libraries, interpreters and can be used with the NuttX RTOS.
+* [WTX](https://github.com/c410-f3r/wtx) ⭐ 397 | 🐛 8 | 🌐 Rust | 📅 2026-08-14 - A set of web-oriented tools.
 * [cembed](https://github.com/rxi/cembed) ⭐ 128 | 🐛 1 | 🌐 C | 📅 2024-04-07 - Small utility for embedding files in a C header.
 
 ***
@@ -548,4 +548,4 @@ Please follow [this](https://github.com/iDoka/awesome-embedded-software) ⭐ 1,0
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
