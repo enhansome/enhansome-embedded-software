@@ -12,10 +12,10 @@
             "archived": false,
             "id": 25298630,
             "language": "C++",
-            "last_commit": "2026-08-22T19:10:38Z",
+            "last_commit": "2026-08-24T13:16:17Z",
             "owner": "ETLCPP",
             "repo": "etl",
-            "stars": 3104
+            "stars": 3105
           }
         },
         {
@@ -177,7 +177,7 @@
             "archived": false,
             "id": 600219322,
             "language": "C",
-            "last_commit": "2026-08-22T01:57:20Z",
+            "last_commit": "2026-08-24T01:20:41Z",
             "owner": "FSMLang",
             "repo": "FSMLang",
             "stars": 10
@@ -352,7 +352,7 @@
                 "last_commit": "2026-08-21T16:02:27Z",
                 "owner": "MaJerle",
                 "repo": "lwrb",
-                "stars": 1521
+                "stars": 1522
               }
             },
             {
@@ -389,6 +389,28 @@
           "description": null,
           "node_type": "group",
           "title": "Ring Buffer"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "fifofast",
+              "description": "A fast, generic fifo for MCUs.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 149173405,
+                "language": "C",
+                "last_commit": "2022-07-02T19:16:50Z",
+                "owner": "nqtronix",
+                "repo": "fifofast",
+                "stars": 280
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "FIFO"
         }
       ],
       "title": "Memory"
@@ -410,7 +432,7 @@
                 "last_commit": "2026-03-25T02:26:59Z",
                 "owner": "littlefs-project",
                 "repo": "littlefs",
-                "stars": 6901
+                "stars": 6903
               }
             },
             {
@@ -582,7 +604,7 @@
                 "last_commit": "2026-08-15T10:49:19Z",
                 "owner": "armink",
                 "repo": "FlashDB",
-                "stars": 2825
+                "stars": 2826
               }
             },
             {
@@ -612,7 +634,7 @@
                 "last_commit": "2021-11-25T21:35:48Z",
                 "owner": "symisc",
                 "repo": "vedis",
-                "stars": 561
+                "stars": 562
               }
             },
             {
@@ -702,10 +724,10 @@
             "archived": false,
             "id": 34807561,
             "language": "C",
-            "last_commit": "2026-07-24T21:06:47Z",
+            "last_commit": "2026-08-24T14:08:00Z",
             "owner": "nanopb",
             "repo": "nanopb",
-            "stars": 5534
+            "stars": 5535
           }
         },
         {
@@ -973,10 +995,10 @@
                 "archived": false,
                 "id": 5414488,
                 "language": "C",
-                "last_commit": "2026-08-23T11:54:18Z",
+                "last_commit": "2026-08-24T07:53:30Z",
                 "owner": "cesanta",
                 "repo": "mongoose",
-                "stars": 13006
+                "stars": 13007
               }
             },
             {
@@ -1087,6 +1109,28 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "RegExp",
+                  "description": "Regular expressions library for embedded systems.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 109567217,
+                    "language": "C",
+                    "last_commit": "2017-11-11T09:53:44Z",
+                    "owner": "MaJerle",
+                    "repo": "RegExp",
+                    "stars": 47
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Regular Expressions Parsers"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "TinyGSM",
                   "description": "Small Arduino library for GSM modules, that just works.",
                   "children": [],
@@ -1097,7 +1141,7 @@
                     "last_commit": "2026-07-21T03:52:35Z",
                     "owner": "vshymanskyy",
                     "repo": "TinyGSM",
-                    "stars": 2212
+                    "stars": 2213
                   }
                 },
                 {
@@ -1149,7 +1193,7 @@
                     "last_commit": "2026-07-15T11:07:03Z",
                     "owner": "kosma",
                     "repo": "minmea",
-                    "stars": 957
+                    "stars": 958
                   }
                 },
                 {
@@ -1428,7 +1472,7 @@
                 "last_commit": "2026-08-22T19:34:59Z",
                 "owner": "jgaeddert",
                 "repo": "liquid-dsp",
-                "stars": 2280
+                "stars": 2281
               }
             },
             {
@@ -1570,7 +1614,7 @@
                 "last_commit": "2024-05-19T06:44:22Z",
                 "owner": "atomicobject",
                 "repo": "heatshrink",
-                "stars": 1546
+                "stars": 1547
               }
             },
             {
@@ -1682,7 +1726,7 @@
                 "last_commit": "2024-04-08T03:15:10Z",
                 "owner": "majianjia",
                 "repo": "nnom",
-                "stars": 1165
+                "stars": 1164
               }
             },
             {
@@ -1837,7 +1881,7 @@
                 "last_commit": "2026-08-20T18:55:15Z",
                 "owner": "Mbed-TLS",
                 "repo": "mbedtls",
-                "stars": 6901
+                "stars": 6903
               }
             },
             {
@@ -1864,7 +1908,7 @@
                 "archived": false,
                 "id": 180590388,
                 "language": "C",
-                "last_commit": "2026-08-23T15:45:47Z",
+                "last_commit": "2026-08-24T14:11:45Z",
                 "owner": "trezor",
                 "repo": "trezor-firmware",
                 "stars": 1811
@@ -1912,7 +1956,7 @@
                 "last_commit": "2026-07-28T12:25:16Z",
                 "owner": "LoupVaillant",
                 "repo": "Monocypher",
-                "stars": 778
+                "stars": 779
               }
             },
             {
@@ -2189,10 +2233,10 @@
             "archived": false,
             "id": 3058456,
             "language": "C",
-            "last_commit": "2026-08-22T22:11:29Z",
+            "last_commit": "2026-08-24T03:15:51Z",
             "owner": "littlekernel",
             "repo": "lk",
-            "stars": 3664
+            "stars": 3663
           }
         },
         {
@@ -2251,10 +2295,10 @@
                 "archived": false,
                 "id": 59771425,
                 "language": "C",
-                "last_commit": "2026-08-23T14:21:02Z",
+                "last_commit": "2026-08-24T12:51:38Z",
                 "owner": "zephyrproject-rtos",
                 "repo": "zephyr",
-                "stars": 16292
+                "stars": 16296
               }
             },
             {
@@ -2266,10 +2310,10 @@
                 "archived": false,
                 "id": 7408108,
                 "language": "C",
-                "last_commit": "2026-08-21T09:45:39Z",
+                "last_commit": "2026-08-24T09:10:55Z",
                 "owner": "RT-Thread",
                 "repo": "rt-thread",
-                "stars": 12163
+                "stars": 12164
               }
             },
             {
@@ -2284,7 +2328,7 @@
                 "last_commit": "2026-07-22T22:19:15Z",
                 "owner": "FreeRTOS",
                 "repo": "FreeRTOS",
-                "stars": 7711
+                "stars": 7713
               }
             },
             {
@@ -2299,7 +2343,7 @@
                 "last_commit": "2026-08-22T16:41:34Z",
                 "owner": "tock",
                 "repo": "tock",
-                "stars": 6418
+                "stars": 6419
               }
             },
             {
@@ -2311,7 +2355,7 @@
                 "archived": false,
                 "id": 7370241,
                 "language": "C",
-                "last_commit": "2026-08-23T14:24:58Z",
+                "last_commit": "2026-08-24T13:22:45Z",
                 "owner": "RIOT-OS",
                 "repo": "RIOT",
                 "stars": 5777
@@ -2341,10 +2385,10 @@
                 "archived": false,
                 "id": 228103273,
                 "language": "C",
-                "last_commit": "2026-08-23T07:33:17Z",
+                "last_commit": "2026-08-24T07:48:33Z",
                 "owner": "apache",
                 "repo": "nuttx",
-                "stars": 4002
+                "stars": 4004
               }
             },
             {
@@ -2359,7 +2403,7 @@
                 "last_commit": "2026-08-20T15:11:32Z",
                 "owner": "eclipse-threadx",
                 "repo": "threadx",
-                "stars": 3510
+                "stars": 3511
               }
             },
             {
@@ -2371,7 +2415,7 @@
                 "archived": false,
                 "id": 33078138,
                 "language": "C",
-                "last_commit": "2026-08-22T15:25:30Z",
+                "last_commit": "2026-08-24T08:34:01Z",
                 "owner": "embox",
                 "repo": "embox",
                 "stars": 1588
@@ -2404,7 +2448,7 @@
                 "last_commit": "2026-07-15T16:23:49Z",
                 "owner": "weston-embedded",
                 "repo": "uC-OS3",
-                "stars": 1085
+                "stars": 1086
               }
             },
             {
@@ -2528,7 +2572,7 @@
                 "archived": false,
                 "id": 181911464,
                 "language": "C",
-                "last_commit": "2026-08-23T14:47:59Z",
+                "last_commit": "2026-08-24T03:40:48Z",
                 "owner": "vsfteam",
                 "repo": "vsf",
                 "stars": 334
@@ -2810,7 +2854,7 @@
                 "archived": false,
                 "id": 7056202,
                 "language": "C++",
-                "last_commit": "2026-08-23T14:50:04Z",
+                "last_commit": "2026-08-23T16:31:29Z",
                 "owner": "fmtlib",
                 "repo": "fmt",
                 "stars": 23757
@@ -2828,7 +2872,7 @@
                 "last_commit": "2023-04-03T17:53:29Z",
                 "owner": "mpaland",
                 "repo": "printf",
-                "stars": 3051
+                "stars": 3053
               }
             },
             {
@@ -3037,7 +3081,7 @@
                 "last_commit": "2026-08-08T10:51:08Z",
                 "owner": "gabime",
                 "repo": "spdlog",
-                "stars": 29521
+                "stars": 29520
               }
             },
             {
@@ -3052,7 +3096,7 @@
                 "last_commit": "2026-08-13T09:41:35Z",
                 "owner": "armink",
                 "repo": "EasyLogger",
-                "stars": 4721
+                "stars": 4723
               }
             },
             {
@@ -3135,10 +3179,10 @@
             "archived": false,
             "id": 60667730,
             "language": "C",
-            "last_commit": "2026-08-20T13:34:21Z",
+            "last_commit": "2026-08-24T13:46:49Z",
             "owner": "lvgl",
             "repo": "lvgl",
-            "stars": 24454
+            "stars": 24465
           }
         },
         {
@@ -3153,7 +3197,7 @@
             "last_commit": "2026-08-23T09:19:28Z",
             "owner": "olikraus",
             "repo": "u8g2",
-            "stars": 6642
+            "stars": 6644
           }
         },
         {
@@ -3168,7 +3212,7 @@
             "last_commit": "2026-08-20T12:16:38Z",
             "owner": "lovyan03",
             "repo": "LovyanGFX",
-            "stars": 1735
+            "stars": 1736
           }
         },
         {
@@ -3183,7 +3227,7 @@
             "last_commit": "2023-10-29T19:32:43Z",
             "owner": "achimdoebler",
             "repo": "UGUI",
-            "stars": 1387
+            "stars": 1388
           }
         },
         {
@@ -3198,7 +3242,7 @@
             "last_commit": "2026-08-02T14:17:57Z",
             "owner": "embedded-graphics",
             "repo": "embedded-graphics",
-            "stars": 1330
+            "stars": 1331
           }
         },
         {
@@ -3494,11 +3538,55 @@
                 "repo": "bitmap-OSD-font",
                 "stars": 6
               }
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "picon",
+                  "description": "Pico-icon set with Hackable Ligature (Designed on a 8-grid: to be readable at 8px 16px 24px 32px 48px).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 216182315,
+                    "language": "HTML",
+                    "last_commit": "2024-05-01T18:58:49Z",
+                    "owner": "yne",
+                    "repo": "picon",
+                    "stars": 29
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Fonts and Icons"
             }
           ],
           "description": null,
           "node_type": "group",
           "title": "Font utils"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "lcd-image-converter",
+              "description": "Tool to create bitmaps and fonts for embedded applications; allows you to create bitmaps and fonts, and transform them to \"C\" source format for embedded applications.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 13446255,
+                "language": "C++",
+                "last_commit": "2025-12-26T12:58:32Z",
+                "owner": "riuson",
+                "repo": "lcd-image-converter",
+                "stars": 404
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Picture manupulation tools"
         }
       ],
       "title": "GUI"
@@ -3506,6 +3594,43 @@
     {
       "description": null,
       "items": [
+        {
+          "node_type": "item",
+          "title": "embedded-driver",
+          "description": "Embedded driver library for various peripheral.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 117677398,
+            "language": "C",
+            "last_commit": "2020-12-10T11:43:19Z",
+            "owner": "InfiniteYuan",
+            "repo": "embedded-driver-library",
+            "stars": 15
+          }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "FastIO",
+              "description": "Fast GPIO forked from http://os.mbed.com/users/Sissors/code/FastIO/ .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 203441925,
+                "language": "C",
+                "last_commit": "2020-11-17T19:14:38Z",
+                "owner": "xillion",
+                "repo": "FastIO",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "IO"
+        },
         {
           "children": [
             {
@@ -3517,10 +3642,10 @@
                 "archived": false,
                 "id": 6860771,
                 "language": "C",
-                "last_commit": "2026-08-23T08:02:42Z",
+                "last_commit": "2026-08-24T07:30:25Z",
                 "owner": "hathach",
                 "repo": "tinyusb",
-                "stars": 7046
+                "stars": 7051
               }
             },
             {
@@ -3542,6 +3667,28 @@
           "description": null,
           "node_type": "group",
           "title": "USB"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SFUD",
+              "description": "Serial Flash Universal Driver (using JEDEC's SFDP standard serial (SPI) flash universal driver library).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 63885010,
+                "language": "C",
+                "last_commit": "2025-05-30T03:45:44Z",
+                "owner": "armink",
+                "repo": "SFUD",
+                "stars": 1712
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Flash"
         },
         {
           "children": [
@@ -3572,7 +3719,7 @@
                 "last_commit": "2026-07-02T21:13:44Z",
                 "owner": "OpenCyphal",
                 "repo": "libcanard",
-                "stars": 445
+                "stars": 446
               }
             },
             {
@@ -3605,6 +3752,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "C-Thread-Pool",
+              "description": "Minimal but powerful thread pool in ANSI C.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2715110,
+                "language": "C",
+                "last_commit": "2025-05-18T12:24:52Z",
+                "owner": "Pithikos",
+                "repo": "C-Thread-Pool",
+                "stars": 2362
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Thread management"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "mcuboot",
               "description": "Secure boot for 32-bit Microcontrollers.",
               "children": [],
@@ -3615,7 +3784,7 @@
                 "last_commit": "2026-08-13T12:03:43Z",
                 "owner": "mcu-tools",
                 "repo": "mcuboot",
-                "stars": 2041
+                "stars": 2042
               }
             },
             {
@@ -3642,10 +3811,10 @@
                 "archived": false,
                 "id": 152455265,
                 "language": "C",
-                "last_commit": "2026-08-21T05:17:02Z",
+                "last_commit": "2026-08-24T10:47:34Z",
                 "owner": "wolfSSL",
                 "repo": "wolfBoot",
-                "stars": 525
+                "stars": 526
               }
             },
             {
@@ -3709,6 +3878,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "tslib",
+              "description": "Touchscreen access library.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 660028,
+                "language": "C",
+                "last_commit": "2025-11-05T15:25:20Z",
+                "owner": "libts",
+                "repo": "tslib",
+                "stars": 673
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Touch Screen"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "μtz",
               "description": "Time zone library for tiny embedded systems.",
               "children": [],
@@ -3741,6 +3932,28 @@
           "description": null,
           "node_type": "group",
           "title": "Time Management Libs"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "little",
+              "description": "A small, fast, easily embeddable language implemented in a single .c file.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 514619782,
+                "language": "C",
+                "last_commit": "2023-09-07T23:28:53Z",
+                "owner": "Beariish",
+                "repo": "little",
+                "stars": 309
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Embeddable Scripts and Languages"
         }
       ],
       "title": "Others"
@@ -3757,10 +3970,10 @@
             "archived": false,
             "id": 136505169,
             "language": "Go",
-            "last_commit": "2026-08-22T08:48:04Z",
+            "last_commit": "2026-08-24T13:39:01Z",
             "owner": "tinygo-org",
             "repo": "tinygo",
-            "stars": 17665
+            "stars": 17667
           }
         },
         {
@@ -3775,7 +3988,7 @@
             "last_commit": "2023-10-30T18:02:47Z",
             "owner": "rui314",
             "repo": "chibicc",
-            "stars": 11839
+            "stars": 11842
           }
         },
         {
@@ -3790,7 +4003,7 @@
             "last_commit": "2024-10-06T03:38:10Z",
             "owner": "drh",
             "repo": "lcc",
-            "stars": 2608
+            "stars": 2611
           }
         },
         {
@@ -3868,10 +4081,10 @@
             "archived": false,
             "id": 228103139,
             "language": "C",
-            "last_commit": "2026-08-23T03:04:34Z",
+            "last_commit": "2026-08-24T14:15:32Z",
             "owner": "apache",
             "repo": "nuttx-apps",
-            "stars": 457
+            "stars": 458
           }
         },
         {
@@ -3883,7 +4096,7 @@
             "archived": false,
             "id": 684042595,
             "language": "Rust",
-            "last_commit": "2026-08-14T18:12:56Z",
+            "last_commit": "2026-08-23T22:12:16Z",
             "owner": "c410-f3r",
             "repo": "wtx",
             "stars": 399
@@ -3909,7 +4122,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T15:53:16.467Z",
+    "last_updated": "2026-08-24T14:16:23.142Z",
     "original_repository": "iDoka/awesome-embedded-software",
     "original_repository_id": 317635912,
     "original_repository_sha": "7ee2327a2b2e0413836b6505d9ff5b1d2c8f9e86",
