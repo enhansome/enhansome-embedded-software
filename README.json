@@ -105,7 +105,7 @@
             "last_commit": "2026-08-25T07:21:49Z",
             "owner": "wbx-github",
             "repo": "uclibc-ng",
-            "stars": 213
+            "stars": 214
           }
         },
         {
@@ -432,7 +432,7 @@
                 "last_commit": "2026-03-25T02:26:59Z",
                 "owner": "littlefs-project",
                 "repo": "littlefs",
-                "stars": 6908
+                "stars": 6911
               }
             },
             {
@@ -1472,7 +1472,7 @@
                 "last_commit": "2026-08-22T19:34:59Z",
                 "owner": "jgaeddert",
                 "repo": "liquid-dsp",
-                "stars": 2283
+                "stars": 2284
               }
             },
             {
@@ -1487,7 +1487,7 @@
                 "last_commit": "2026-08-12T14:54:37Z",
                 "owner": "mborgerding",
                 "repo": "kissfft",
-                "stars": 1973
+                "stars": 1974
               }
             },
             {
@@ -1517,7 +1517,7 @@
                 "last_commit": "2025-07-07T09:15:36Z",
                 "owner": "berndporr",
                 "repo": "iir1",
-                "stars": 780
+                "stars": 779
               }
             },
             {
@@ -1878,10 +1878,10 @@
                 "archived": false,
                 "id": 6687936,
                 "language": "C",
-                "last_commit": "2026-08-20T18:55:15Z",
+                "last_commit": "2026-08-27T17:47:57Z",
                 "owner": "Mbed-TLS",
                 "repo": "mbedtls",
-                "stars": 6921
+                "stars": 6922
               }
             },
             {
@@ -1908,10 +1908,10 @@
                 "archived": false,
                 "id": 180590388,
                 "language": "C",
-                "last_commit": "2026-08-27T11:37:57Z",
+                "last_commit": "2026-08-27T23:15:28Z",
                 "owner": "trezor",
                 "repo": "trezor-firmware",
-                "stars": 1813
+                "stars": 1814
               }
             },
             {
@@ -1931,21 +1931,6 @@
             },
             {
               "node_type": "item",
-              "title": "LibHydrogen",
-              "description": "Lightweight, secure, easy-to-use crypto library suitable for constrained environments.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 80458219,
-                "language": "C",
-                "last_commit": "2026-08-26T19:39:26Z",
-                "owner": "jedisct1",
-                "repo": "libhydrogen",
-                "stars": 779
-              }
-            },
-            {
-              "node_type": "item",
               "title": "Monocypher",
               "description": "Easy to use, easy to deploy, auditable crypto library written in portable C.",
               "children": [],
@@ -1956,6 +1941,21 @@
                 "last_commit": "2026-07-28T12:25:16Z",
                 "owner": "LoupVaillant",
                 "repo": "Monocypher",
+                "stars": 780
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LibHydrogen",
+              "description": "Lightweight, secure, easy-to-use crypto library suitable for constrained environments.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 80458219,
+                "language": "C",
+                "last_commit": "2026-08-26T19:39:26Z",
+                "owner": "jedisct1",
+                "repo": "libhydrogen",
                 "stars": 779
               }
             },
@@ -2031,7 +2031,7 @@
                 "last_commit": "2026-08-26T14:16:41Z",
                 "owner": "wolfSSL",
                 "repo": "wolfTPM",
-                "stars": 339
+                "stars": 340
               }
             },
             {
@@ -2295,10 +2295,10 @@
                 "archived": false,
                 "id": 59771425,
                 "language": "C",
-                "last_commit": "2026-08-27T11:16:04Z",
+                "last_commit": "2026-08-27T23:32:48Z",
                 "owner": "zephyrproject-rtos",
                 "repo": "zephyr",
-                "stars": 16322
+                "stars": 16326
               }
             },
             {
@@ -2328,7 +2328,7 @@
                 "last_commit": "2026-08-26T19:07:36Z",
                 "owner": "FreeRTOS",
                 "repo": "FreeRTOS",
-                "stars": 7727
+                "stars": 7730
               }
             },
             {
@@ -2340,10 +2340,10 @@
                 "archived": false,
                 "id": 36428094,
                 "language": "Rust",
-                "last_commit": "2026-08-27T01:15:48Z",
+                "last_commit": "2026-08-27T22:26:40Z",
                 "owner": "tock",
                 "repo": "tock",
-                "stars": 6423
+                "stars": 6425
               }
             },
             {
@@ -2355,10 +2355,10 @@
                 "archived": false,
                 "id": 7370241,
                 "language": "C",
-                "last_commit": "2026-08-27T10:44:00Z",
+                "last_commit": "2026-08-27T23:25:52Z",
                 "owner": "RIOT-OS",
                 "repo": "RIOT",
-                "stars": 5779
+                "stars": 5780
               }
             },
             {
@@ -2385,10 +2385,10 @@
                 "archived": false,
                 "id": 228103273,
                 "language": "C",
-                "last_commit": "2026-08-27T10:12:19Z",
+                "last_commit": "2026-08-28T00:10:28Z",
                 "owner": "apache",
                 "repo": "nuttx",
-                "stars": 4010
+                "stars": 4012
               }
             },
             {
@@ -2403,7 +2403,7 @@
                 "last_commit": "2026-08-26T13:13:35Z",
                 "owner": "eclipse-threadx",
                 "repo": "threadx",
-                "stars": 3514
+                "stars": 3515
               }
             },
             {
@@ -2433,7 +2433,7 @@
                 "last_commit": "2026-08-18T15:09:09Z",
                 "owner": "QuantumLeaps",
                 "repo": "qpc",
-                "stars": 1356
+                "stars": 1357
               }
             },
             {
@@ -2478,7 +2478,7 @@
                 "last_commit": "2026-05-31T08:30:12Z",
                 "owner": "ChibiOS",
                 "repo": "ChibiOS",
-                "stars": 859
+                "stars": 860
               }
             },
             {
@@ -2572,7 +2572,7 @@
                 "archived": false,
                 "id": 181911464,
                 "language": "C",
-                "last_commit": "2026-08-27T00:45:56Z",
+                "last_commit": "2026-08-27T23:33:43Z",
                 "owner": "vsfteam",
                 "repo": "vsf",
                 "stars": 335
@@ -2663,7 +2663,7 @@
                 "last_commit": "2026-03-11T15:14:27Z",
                 "owner": "funbiscuit",
                 "repo": "embedded-cli",
-                "stars": 379
+                "stars": 380
               }
             },
             {
@@ -2854,7 +2854,7 @@
                 "archived": false,
                 "id": 7056202,
                 "language": "C++",
-                "last_commit": "2026-08-23T16:31:29Z",
+                "last_commit": "2026-08-27T15:54:40Z",
                 "owner": "fmtlib",
                 "repo": "fmt",
                 "stars": 23766
@@ -3081,7 +3081,7 @@
                 "last_commit": "2026-08-08T10:51:08Z",
                 "owner": "gabime",
                 "repo": "spdlog",
-                "stars": 29530
+                "stars": 29534
               }
             },
             {
@@ -3108,7 +3108,7 @@
                 "archived": false,
                 "id": 239806806,
                 "language": "Go",
-                "last_commit": "2026-08-27T06:27:46Z",
+                "last_commit": "2026-08-27T19:34:02Z",
                 "owner": "rokath",
                 "repo": "trice",
                 "stars": 984
@@ -3179,10 +3179,10 @@
             "archived": false,
             "id": 60667730,
             "language": "C",
-            "last_commit": "2026-08-27T06:17:06Z",
+            "last_commit": "2026-08-27T18:46:38Z",
             "owner": "lvgl",
             "repo": "lvgl",
-            "stars": 24508
+            "stars": 24513
           }
         },
         {
@@ -3212,7 +3212,7 @@
             "last_commit": "2026-08-27T08:48:13Z",
             "owner": "lovyan03",
             "repo": "LovyanGFX",
-            "stars": 1741
+            "stars": 1742
           }
         },
         {
@@ -3269,7 +3269,7 @@
             "archived": false,
             "id": 263076187,
             "language": "C",
-            "last_commit": "2026-08-27T11:03:31Z",
+            "last_commit": "2026-08-27T23:34:04Z",
             "owner": "eclipse-threadx",
             "repo": "guix",
             "stars": 405
@@ -3642,10 +3642,10 @@
                 "archived": false,
                 "id": 6860771,
                 "language": "C",
-                "last_commit": "2026-08-27T10:23:15Z",
+                "last_commit": "2026-08-27T17:38:47Z",
                 "owner": "hathach",
                 "repo": "tinyusb",
-                "stars": 7058
+                "stars": 7060
               }
             },
             {
@@ -3704,7 +3704,7 @@
                 "last_commit": "2026-03-20T15:59:21Z",
                 "owner": "Arksine",
                 "repo": "katapult",
-                "stars": 670
+                "stars": 671
               }
             },
             {
@@ -3741,6 +3741,28 @@
           "description": null,
           "node_type": "group",
           "title": "CAN bus"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "stm32-async-1wire",
+              "description": "Non-blocking, register-level 1-Wire master for STM32 (DS18B20 temperature driver on top). Hardware-timed (TIM1+DMA, DMAMUX on G0), interrupt-free, RTOS-agnostic; header-only backends for STM32F1/F0/G0; hardware-validated on Blue Pill (F103) and STM32G031; strong-pull-up parasite powering; released v1.6.1.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1041965590,
+                "language": "C",
+                "last_commit": "2026-08-27T20:04:47Z",
+                "owner": "a5021",
+                "repo": "stm32-async-1wire",
+                "stars": 10
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Sensors"
         }
       ],
       "title": "Hardware"
@@ -3970,10 +3992,10 @@
             "archived": false,
             "id": 136505169,
             "language": "Go",
-            "last_commit": "2026-08-27T07:09:21Z",
+            "last_commit": "2026-08-27T20:35:04Z",
             "owner": "tinygo-org",
             "repo": "tinygo",
-            "stars": 17671
+            "stars": 17672
           }
         },
         {
@@ -3988,7 +4010,7 @@
             "last_commit": "2023-10-30T18:02:47Z",
             "owner": "rui314",
             "repo": "chibicc",
-            "stars": 11855
+            "stars": 11858
           }
         },
         {
@@ -4122,17 +4144,17 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:39:29.776Z",
+    "last_updated": "2026-08-28T00:34:27.732Z",
     "original_repository_info": {
       "archived": false,
       "id": 317635912,
       "language": null,
-      "last_commit": "2026-06-09T10:55:59Z",
+      "last_commit": "2026-08-27T14:10:53Z",
       "owner": "iDoka",
       "repo": "awesome-embedded-software",
-      "stars": 1097
+      "stars": 1098
     },
-    "original_repository_sha": "7ee2327a2b2e0413836b6505d9ff5b1d2c8f9e86",
+    "original_repository_sha": "2587e6d4a1c177f8379c13fbfb240324863ba504",
     "enhanced_repository": "enhansome/enhansome-embedded-software",
     "enhanced_repository_description": null,
     "title": "Awesome Embedded Resources for Developers with stars"
