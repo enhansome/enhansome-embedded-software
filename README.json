@@ -781,7 +781,7 @@
                 "open_issues": 632,
                 "owner": "littlefs-project",
                 "repo": "littlefs",
-                "stars": 6912,
+                "stars": 6914,
                 "topics": [
                   "embedded",
                   "filesystem",
@@ -1295,7 +1295,7 @@
             "open_issues": 37,
             "owner": "debevv",
             "repo": "nanoMODBUS",
-            "stars": 903,
+            "stars": 904,
             "topics": [
               "arduino",
               "c",
@@ -1675,7 +1675,7 @@
                 "open_issues": 2,
                 "owner": "cesanta",
                 "repo": "mongoose",
-                "stars": 13012,
+                "stars": 13013,
                 "topics": [
                   "embedded",
                   "http",
@@ -1708,7 +1708,7 @@
                 "open_issues": 45,
                 "owner": "Yellow-Camper",
                 "repo": "libevhtp",
-                "stars": 457,
+                "stars": 456,
                 "topics": [
                   "c",
                   "embedded-c",
@@ -1797,7 +1797,7 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-07-03T15:37:59Z",
-                "open_issues": 92,
+                "open_issues": 93,
                 "owner": "eclipse-paho",
                 "repo": "paho.mqtt.embedded-c",
                 "stars": 1539,
@@ -2220,7 +2220,7 @@
                     "id": 39396258,
                     "language": "C",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-08-25T06:49:17Z",
+                    "last_commit": "2026-08-29T08:22:02Z",
                     "open_issues": 57,
                     "owner": "obgm",
                     "repo": "libcoap",
@@ -2451,7 +2451,7 @@
                 "open_issues": 163,
                 "owner": "jgaeddert",
                 "repo": "liquid-dsp",
-                "stars": 2284,
+                "stars": 2285,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:04:59.844Z"
@@ -3071,7 +3071,7 @@
                 "open_issues": 0,
                 "owner": "ForestHubAI",
                 "repo": "edge-agents",
-                "stars": 100,
+                "stars": 101,
                 "topics": [
                   "agent-runtime",
                   "ai-agents",
@@ -3211,10 +3211,10 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-27T17:47:57Z",
-                "open_issues": 1730,
+                "open_issues": 1731,
                 "owner": "Mbed-TLS",
                 "repo": "mbedtls",
-                "stars": 6926,
+                "stars": 6927,
                 "topics": [
                   "crypto",
                   "cryptography-library",
@@ -3241,7 +3241,7 @@
                 "open_issues": 35,
                 "owner": "kokke",
                 "repo": "tiny-AES-c",
-                "stars": 5001,
+                "stars": 5002,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:04:59.844Z"
@@ -3258,8 +3258,8 @@
                 "id": 180590388,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-28T20:33:14Z",
-                "open_issues": 729,
+                "last_commit": "2026-08-29T16:12:10Z",
+                "open_issues": 727,
                 "owner": "trezor",
                 "repo": "trezor-firmware",
                 "stars": 1815,
@@ -3306,6 +3306,37 @@
             },
             {
               "node_type": "item",
+              "title": "LibHydrogen",
+              "description": "Lightweight, secure, easy-to-use crypto library suitable for constrained environments.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A lightweight, secure, easy-to-use crypto library suitable for constrained environments.",
+                "homepage": "https://libhydrogen.org",
+                "id": 80458219,
+                "language": "C",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-26T19:39:26Z",
+                "open_issues": 0,
+                "owner": "jedisct1",
+                "repo": "libhydrogen",
+                "stars": 780,
+                "topics": [
+                  "arduino",
+                  "atmega328p",
+                  "avr",
+                  "c",
+                  "crypto",
+                  "cryptography",
+                  "embedded",
+                  "embedded-systems",
+                  "gimli"
+                ]
+              },
+              "first_seen": "2026-08-29T00:04:59.844Z"
+            },
+            {
+              "node_type": "item",
               "title": "Monocypher",
               "description": "Easy to use, easy to deploy, auditable crypto library written in portable C.",
               "children": [],
@@ -3322,37 +3353,6 @@
                 "repo": "Monocypher",
                 "stars": 780,
                 "topics": []
-              },
-              "first_seen": "2026-08-29T00:04:59.844Z"
-            },
-            {
-              "node_type": "item",
-              "title": "LibHydrogen",
-              "description": "Lightweight, secure, easy-to-use crypto library suitable for constrained environments.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A lightweight, secure, easy-to-use crypto library suitable for constrained environments.",
-                "homepage": "https://libhydrogen.org",
-                "id": 80458219,
-                "language": "C",
-                "license": "NOASSERTION",
-                "last_commit": "2026-08-26T19:39:26Z",
-                "open_issues": 0,
-                "owner": "jedisct1",
-                "repo": "libhydrogen",
-                "stars": 779,
-                "topics": [
-                  "arduino",
-                  "atmega328p",
-                  "avr",
-                  "c",
-                  "crypto",
-                  "cryptography",
-                  "embedded",
-                  "embedded-systems",
-                  "gimli"
-                ]
               },
               "first_seen": "2026-08-29T00:04:59.844Z"
             },
@@ -3781,7 +3781,7 @@
             "language": "C",
             "license": "MIT",
             "last_commit": "2026-08-26T17:26:56Z",
-            "open_issues": 92,
+            "open_issues": 94,
             "owner": "littlekernel",
             "repo": "lk",
             "stars": 3667,
@@ -3808,7 +3808,7 @@
             "open_issues": 4,
             "owner": "kmilo17pet",
             "repo": "QuarkTS",
-            "stars": 350,
+            "stars": 351,
             "topics": [
               "arm",
               "avr",
@@ -3891,10 +3891,10 @@
                 "language": "C",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-28T19:34:31Z",
-                "open_issues": 3858,
+                "open_issues": 3876,
                 "owner": "zephyrproject-rtos",
                 "repo": "zephyr",
-                "stars": 16338,
+                "stars": 16339,
                 "topics": [
                   "bluetooth",
                   "bluetooth-le",
@@ -3925,10 +3925,10 @@
                 "language": "C",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-28T04:25:32Z",
-                "open_issues": 499,
+                "open_issues": 500,
                 "owner": "RT-Thread",
                 "repo": "rt-thread",
-                "stars": 12174,
+                "stars": 12176,
                 "topics": [
                   "aiot",
                   "arm",
@@ -3960,10 +3960,10 @@
                 "language": "C",
                 "license": "MIT",
                 "last_commit": "2026-08-26T19:07:36Z",
-                "open_issues": 33,
+                "open_issues": 34,
                 "owner": "FreeRTOS",
                 "repo": "FreeRTOS",
-                "stars": 7734,
+                "stars": 7735,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:04:59.844Z"
@@ -3981,7 +3981,7 @@
                 "language": "Rust",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-28T20:58:41Z",
-                "open_issues": 200,
+                "open_issues": 201,
                 "owner": "tock",
                 "repo": "tock",
                 "stars": 6428,
@@ -4014,8 +4014,8 @@
                 "id": 7370241,
                 "language": "C",
                 "license": "LGPL-2.1",
-                "last_commit": "2026-08-28T17:01:41Z",
-                "open_issues": 873,
+                "last_commit": "2026-08-29T10:34:03Z",
+                "open_issues": 874,
                 "owner": "RIOT-OS",
                 "repo": "RIOT",
                 "stars": 5780,
@@ -4051,7 +4051,7 @@
                 "open_issues": 211,
                 "owner": "ARMmbed",
                 "repo": "mbed-os",
-                "stars": 4871,
+                "stars": 4872,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:04:59.844Z"
@@ -4068,8 +4068,8 @@
                 "id": 228103273,
                 "language": "C",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-28T19:51:21Z",
-                "open_issues": 748,
+                "last_commit": "2026-08-29T14:15:50Z",
+                "open_issues": 746,
                 "owner": "apache",
                 "repo": "nuttx",
                 "stars": 4013,
@@ -4125,11 +4125,11 @@
                 "id": 33078138,
                 "language": "C",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-08-28T17:03:28Z",
+                "last_commit": "2026-08-29T16:01:07Z",
                 "open_issues": 216,
                 "owner": "embox",
                 "repo": "embox",
-                "stars": 1590,
+                "stars": 1591,
                 "topics": [
                   "c",
                   "embedded",
@@ -4158,7 +4158,7 @@
                 "open_issues": 4,
                 "owner": "QuantumLeaps",
                 "repo": "qpc",
-                "stars": 1359,
+                "stars": 1360,
                 "topics": [
                   "active-object",
                   "actor",
@@ -4281,7 +4281,7 @@
                 "open_issues": 3,
                 "owner": "weston-embedded",
                 "repo": "uC-OS2",
-                "stars": 735,
+                "stars": 736,
                 "topics": [
                   "certification",
                   "kernel",
@@ -4885,7 +4885,7 @@
                 "id": 7056202,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-08-27T15:54:40Z",
+                "last_commit": "2026-08-29T14:47:28Z",
                 "open_issues": 16,
                 "owner": "fmtlib",
                 "repo": "fmt",
@@ -4923,7 +4923,7 @@
                 "open_issues": 66,
                 "owner": "mpaland",
                 "repo": "printf",
-                "stars": 3056,
+                "stars": 3057,
                 "topics": [
                   "embedded",
                   "embedded-systems",
@@ -4958,7 +4958,7 @@
                 "open_issues": 7,
                 "owner": "charlesnicholson",
                 "repo": "nanoprintf",
-                "stars": 844,
+                "stars": 843,
                 "topics": [
                   "bsd-license",
                   "c",
@@ -5277,7 +5277,7 @@
                 "open_issues": 50,
                 "owner": "gabime",
                 "repo": "spdlog",
-                "stars": 29540,
+                "stars": 29541,
                 "topics": [
                   "cpp",
                   "cpp11",
@@ -5304,7 +5304,7 @@
                 "open_issues": 81,
                 "owner": "armink",
                 "repo": "EasyLogger",
-                "stars": 4736,
+                "stars": 4737,
                 "topics": [
                   "c",
                   "high-performance",
@@ -5466,7 +5466,7 @@
             "open_issues": 220,
             "owner": "lvgl",
             "repo": "lvgl",
-            "stars": 24521,
+            "stars": 24526,
             "topics": [
               "arduino",
               "c",
@@ -5539,7 +5539,7 @@
             "open_issues": 16,
             "owner": "lovyan03",
             "repo": "LovyanGFX",
-            "stars": 1744,
+            "stars": 1745,
             "topics": [
               "dma",
               "esp-idf",
@@ -6233,7 +6233,7 @@
                 "open_issues": 251,
                 "owner": "hathach",
                 "repo": "tinyusb",
-                "stars": 7066,
+                "stars": 7071,
                 "topics": [
                   "embedded",
                   "midi",
@@ -6266,7 +6266,7 @@
                 "open_issues": 29,
                 "owner": "dmitrystu",
                 "repo": "libusb_stm32",
-                "stars": 826,
+                "stars": 827,
                 "topics": [
                   "stm32",
                   "usb"
@@ -6422,7 +6422,7 @@
                 "id": 1041965590,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-08-28T22:28:54Z",
+                "last_commit": "2026-08-29T18:33:30Z",
                 "open_issues": 0,
                 "owner": "a5021",
                 "repo": "stm32-async-1wire",
@@ -6509,7 +6509,7 @@
                 "open_issues": 102,
                 "owner": "mcu-tools",
                 "repo": "mcuboot",
-                "stars": 2047,
+                "stars": 2051,
                 "topics": [
                   "bootloader",
                   "device",
@@ -6566,7 +6566,7 @@
                 "open_issues": 13,
                 "owner": "wolfSSL",
                 "repo": "wolfBoot",
-                "stars": 527,
+                "stars": 528,
                 "topics": [
                   "32-bit",
                   "bootloader",
@@ -6820,8 +6820,8 @@
             "id": 136505169,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-28T17:48:48Z",
-            "open_issues": 565,
+            "last_commit": "2026-08-29T15:18:16Z",
+            "open_issues": 564,
             "owner": "tinygo-org",
             "repo": "tinygo",
             "stars": 17676,
@@ -6981,7 +6981,7 @@
             "open_issues": 68,
             "owner": "modm-io",
             "repo": "modm",
-            "stars": 963,
+            "stars": 964,
             "topics": [
               "avr",
               "cortex-m",
@@ -7013,7 +7013,7 @@
             "language": "C",
             "license": "Apache-2.0",
             "last_commit": "2026-08-28T16:12:46Z",
-            "open_issues": 62,
+            "open_issues": 63,
             "owner": "apache",
             "repo": "nuttx-apps",
             "stars": 458,
@@ -7096,7 +7096,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:33:24.947Z",
+    "last_updated": "2026-08-29T18:48:46.445Z",
     "original_repository_info": {
       "archived": false,
       "description": ":stars: List of software (HW interfaces, libs, protocols, etc) specifically suitable for resource-constrained Embedded Systems (low-memory and low-power) like 8-bit, 16-bit and 32-bit microcontrollers.",
