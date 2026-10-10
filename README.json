@@ -19,7 +19,7 @@
             "open_issues": 55,
             "owner": "ETLCPP",
             "repo": "etl",
-            "stars": 3136,
+            "stars": 3137,
             "topics": [
               "algorithms",
               "c-plus-plus",
@@ -336,8 +336,8 @@
             "id": 600219322,
             "language": "C",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-27T19:34:27Z",
-            "open_issues": 18,
+            "last_commit": "2026-10-10T03:04:28Z",
+            "open_issues": 20,
             "owner": "FSMLang",
             "repo": "FSMLang",
             "stars": 10,
@@ -781,7 +781,7 @@
                 "open_issues": 638,
                 "owner": "littlefs-project",
                 "repo": "littlefs",
-                "stars": 6960,
+                "stars": 6965,
                 "topics": [
                   "embedded",
                   "filesystem",
@@ -806,7 +806,7 @@
                 "open_issues": 243,
                 "owner": "greiman",
                 "repo": "SdFat",
-                "stars": 1210,
+                "stars": 1211,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:04:59.844Z"
@@ -1061,7 +1061,7 @@
                 "open_issues": 188,
                 "owner": "armink",
                 "repo": "FlashDB",
-                "stars": 2862,
+                "stars": 2863,
                 "topics": [
                   "database",
                   "embedded",
@@ -1090,7 +1090,7 @@
                 "open_issues": 30,
                 "owner": "symisc",
                 "repo": "unqlite",
-                "stars": 2315,
+                "stars": 2316,
                 "topics": [
                   "c",
                   "database",
@@ -1204,7 +1204,7 @@
                 "open_issues": 62,
                 "owner": "armink",
                 "repo": "EasyFlash",
-                "stars": 2372,
+                "stars": 2373,
                 "topics": [
                   "embedded",
                   "flash",
@@ -1268,7 +1268,7 @@
             "open_issues": 78,
             "owner": "nanopb",
             "repo": "nanopb",
-            "stars": 5576,
+            "stars": 5577,
             "topics": [
               "c",
               "embedded",
@@ -1295,7 +1295,7 @@
             "open_issues": 39,
             "owner": "debevv",
             "repo": "nanoMODBUS",
-            "stars": 921,
+            "stars": 922,
             "topics": [
               "arduino",
               "c",
@@ -1671,11 +1671,11 @@
                 "id": 5414488,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-09T06:40:35Z",
-                "open_issues": 3,
+                "last_commit": "2026-10-10T11:25:56Z",
+                "open_issues": 4,
                 "owner": "cesanta",
                 "repo": "mongoose",
-                "stars": 13080,
+                "stars": 13082,
                 "topics": [
                   "embedded",
                   "http",
@@ -1800,7 +1800,7 @@
                 "open_issues": 94,
                 "owner": "eclipse-paho",
                 "repo": "paho.mqtt.embedded-c",
-                "stars": 1544,
+                "stars": 1545,
                 "topics": [
                   "eclipseiot",
                   "embedded",
@@ -2013,7 +2013,7 @@
                     "open_issues": 15,
                     "owner": "kosma",
                     "repo": "minmea",
-                    "stars": 967,
+                    "stars": 968,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:04:59.844Z"
@@ -2224,7 +2224,7 @@
                     "open_issues": 53,
                     "owner": "obgm",
                     "repo": "libcoap",
-                    "stars": 920,
+                    "stars": 921,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:04:59.844Z"
@@ -2451,7 +2451,7 @@
                 "open_issues": 165,
                 "owner": "jgaeddert",
                 "repo": "liquid-dsp",
-                "stars": 2311,
+                "stars": 2312,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:04:59.844Z"
@@ -2472,7 +2472,7 @@
                 "open_issues": 40,
                 "owner": "mborgerding",
                 "repo": "kissfft",
-                "stars": 1994,
+                "stars": 1995,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:04:59.844Z"
@@ -2569,7 +2569,7 @@
                 "open_issues": 6,
                 "owner": "mreineck",
                 "repo": "pocketfft",
-                "stars": 158,
+                "stars": 159,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:04:59.844Z"
@@ -2633,7 +2633,7 @@
                 "id": 251557605,
                 "language": "C++",
                 "license": "LGPL-3.0",
-                "last_commit": "2026-10-03T18:57:46Z",
+                "last_commit": "2026-10-10T16:38:16Z",
                 "open_issues": 0,
                 "owner": "lsp-plugins",
                 "repo": "lsp-dsp-lib",
@@ -2715,7 +2715,7 @@
                 "open_issues": 42,
                 "owner": "atomicobject",
                 "repo": "heatshrink",
-                "stars": 1552,
+                "stars": 1553,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:04:59.844Z"
@@ -3216,7 +3216,7 @@
                 "open_issues": 1750,
                 "owner": "Mbed-TLS",
                 "repo": "mbedtls",
-                "stars": 6987,
+                "stars": 6989,
                 "topics": [
                   "crypto",
                   "cryptography-library",
@@ -3260,11 +3260,11 @@
                 "id": 180590388,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-09T20:08:19Z",
-                "open_issues": 733,
+                "last_commit": "2026-10-10T16:43:09Z",
+                "open_issues": 734,
                 "owner": "trezor",
                 "repo": "trezor-firmware",
-                "stars": 1843,
+                "stars": 1844,
                 "topics": [
                   "bitcoin",
                   "c",
@@ -3322,7 +3322,7 @@
                 "open_issues": 9,
                 "owner": "LoupVaillant",
                 "repo": "Monocypher",
-                "stars": 789,
+                "stars": 790,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:04:59.844Z"
@@ -3371,7 +3371,7 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-22T08:36:42Z",
-                "open_issues": 36,
+                "open_issues": 37,
                 "owner": "eduardsui",
                 "repo": "tlse",
                 "stars": 685,
@@ -3418,7 +3418,7 @@
                 "open_issues": 17,
                 "owner": "trussed-dev",
                 "repo": "trussed",
-                "stars": 508,
+                "stars": 509,
                 "topics": [
                   "cryptography",
                   "embedded",
@@ -3786,7 +3786,7 @@
             "open_issues": 95,
             "owner": "littlekernel",
             "repo": "lk",
-            "stars": 3697,
+            "stars": 3698,
             "topics": [
               "operating-system",
               "rtos"
@@ -3892,11 +3892,11 @@
                 "id": 59771425,
                 "language": "C",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-09T19:36:00Z",
-                "open_issues": 4226,
+                "last_commit": "2026-10-10T18:07:03Z",
+                "open_issues": 4231,
                 "owner": "zephyrproject-rtos",
                 "repo": "zephyr",
-                "stars": 16734,
+                "stars": 16743,
                 "topics": [
                   "bluetooth",
                   "bluetooth-le",
@@ -3926,11 +3926,11 @@
                 "id": 7408108,
                 "language": "C",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-09T00:58:47Z",
-                "open_issues": 510,
+                "last_commit": "2026-10-10T09:20:58Z",
+                "open_issues": 508,
                 "owner": "RT-Thread",
                 "repo": "rt-thread",
-                "stars": 12262,
+                "stars": 12267,
                 "topics": [
                   "aiot",
                   "arm",
@@ -3965,7 +3965,7 @@
                 "open_issues": 36,
                 "owner": "FreeRTOS",
                 "repo": "FreeRTOS",
-                "stars": 7874,
+                "stars": 7875,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:04:59.844Z"
@@ -3982,11 +3982,11 @@
                 "id": 36428094,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-09T19:27:38Z",
-                "open_issues": 217,
+                "last_commit": "2026-10-10T17:37:48Z",
+                "open_issues": 220,
                 "owner": "tock",
                 "repo": "tock",
-                "stars": 6462,
+                "stars": 6464,
                 "topics": [
                   "arm",
                   "cortex-m",
@@ -4016,11 +4016,11 @@
                 "id": 7370241,
                 "language": "C",
                 "license": "LGPL-2.1",
-                "last_commit": "2026-10-09T18:43:24Z",
-                "open_issues": 906,
+                "last_commit": "2026-10-10T11:14:41Z",
+                "open_issues": 904,
                 "owner": "RIOT-OS",
                 "repo": "RIOT",
-                "stars": 5808,
+                "stars": 5809,
                 "topics": [
                   "c",
                   "internet",
@@ -4069,11 +4069,11 @@
                 "id": 228103273,
                 "language": "C",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-09T19:43:41Z",
-                "open_issues": 764,
+                "last_commit": "2026-10-10T18:51:19Z",
+                "open_issues": 756,
                 "owner": "apache",
                 "repo": "nuttx",
-                "stars": 4063,
+                "stars": 4065,
                 "topics": [
                   "embedded",
                   "mcu",
@@ -4101,7 +4101,7 @@
                 "open_issues": 58,
                 "owner": "eclipse-threadx",
                 "repo": "threadx",
-                "stars": 3536,
+                "stars": 3537,
                 "topics": [
                   "eclipse-threadx",
                   "embedded",
@@ -4126,11 +4126,11 @@
                 "id": 33078138,
                 "language": "C",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-10-09T18:06:47Z",
+                "last_commit": "2026-10-10T13:44:11Z",
                 "open_issues": 220,
                 "owner": "embox",
                 "repo": "embox",
-                "stars": 1598,
+                "stars": 1599,
                 "topics": [
                   "c",
                   "embedded",
@@ -4159,7 +4159,7 @@
                 "open_issues": 4,
                 "owner": "QuantumLeaps",
                 "repo": "qpc",
-                "stars": 1383,
+                "stars": 1384,
                 "topics": [
                   "active-object",
                   "actor",
@@ -4261,7 +4261,7 @@
                 "open_issues": 28,
                 "owner": "ChibiOS",
                 "repo": "ChibiOS",
-                "stars": 866,
+                "stars": 867,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:04:59.844Z"
@@ -4887,7 +4887,7 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-10-08T20:06:29Z",
-                "open_issues": 13,
+                "open_issues": 14,
                 "owner": "fmtlib",
                 "repo": "fmt",
                 "stars": 25872,
@@ -4924,7 +4924,7 @@
                 "open_issues": 66,
                 "owner": "mpaland",
                 "repo": "printf",
-                "stars": 3072,
+                "stars": 3073,
                 "topics": [
                   "embedded",
                   "embedded-systems",
@@ -5278,7 +5278,7 @@
                 "open_issues": 56,
                 "owner": "gabime",
                 "repo": "spdlog",
-                "stars": 29677,
+                "stars": 29676,
                 "topics": [
                   "cpp",
                   "cpp11",
@@ -5305,7 +5305,7 @@
                 "open_issues": 81,
                 "owner": "armink",
                 "repo": "EasyLogger",
-                "stars": 4763,
+                "stars": 4766,
                 "topics": [
                   "c",
                   "high-performance",
@@ -5333,7 +5333,7 @@
                 "open_issues": 0,
                 "owner": "rokath",
                 "repo": "trice",
-                "stars": 1002,
+                "stars": 1003,
                 "topics": [
                   "arm",
                   "bare-metal",
@@ -5464,10 +5464,10 @@
             "language": "C",
             "license": "MIT",
             "last_commit": "2026-10-07T06:23:59Z",
-            "open_issues": 146,
+            "open_issues": 148,
             "owner": "lvgl",
             "repo": "lvgl",
-            "stars": 24832,
+            "stars": 24838,
             "topics": [
               "arduino",
               "c",
@@ -5506,10 +5506,10 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-09-14T10:12:47Z",
-            "open_issues": 283,
+            "open_issues": 284,
             "owner": "olikraus",
             "repo": "u8g2",
-            "stars": 6712,
+            "stars": 6713,
             "topics": [
               "arduino",
               "display",
@@ -5574,7 +5574,7 @@
             "open_issues": 43,
             "owner": "achimdoebler",
             "repo": "UGUI",
-            "stars": 1398,
+            "stars": 1399,
             "topics": []
           },
           "first_seen": "2026-08-29T00:04:59.844Z"
@@ -5595,7 +5595,7 @@
             "open_issues": 90,
             "owner": "embedded-graphics",
             "repo": "embedded-graphics",
-            "stars": 1344,
+            "stars": 1346,
             "topics": [
               "embedded-graphics",
               "hacktoberfest",
@@ -6230,11 +6230,11 @@
                 "id": 6860771,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-10-09T18:29:54Z",
-                "open_issues": 382,
+                "last_commit": "2026-10-10T17:02:03Z",
+                "open_issues": 383,
                 "owner": "hathach",
                 "repo": "tinyusb",
-                "stars": 7185,
+                "stars": 7189,
                 "topics": [
                   "embedded",
                   "midi",
@@ -6423,7 +6423,7 @@
                 "id": 1041965590,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-10-09T18:06:53Z",
+                "last_commit": "2026-10-10T12:55:17Z",
                 "open_issues": 0,
                 "owner": "a5021",
                 "repo": "stm32-async-1wire",
@@ -6482,7 +6482,7 @@
                 "open_issues": 29,
                 "owner": "Pithikos",
                 "repo": "C-Thread-Pool",
-                "stars": 2361,
+                "stars": 2362,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:04:59.844Z"
@@ -6507,10 +6507,10 @@
                 "language": "C",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-09T06:28:11Z",
-                "open_issues": 95,
+                "open_issues": 96,
                 "owner": "mcu-tools",
                 "repo": "mcuboot",
-                "stars": 2150,
+                "stars": 2152,
                 "topics": [
                   "bootloader",
                   "device",
@@ -6539,7 +6539,7 @@
                 "open_issues": 0,
                 "owner": "feaser",
                 "repo": "openblt",
-                "stars": 980,
+                "stars": 979,
                 "topics": [
                   "bootloader",
                   "c",
@@ -6563,8 +6563,8 @@
                 "id": 152455265,
                 "language": "C",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-09T19:26:08Z",
-                "open_issues": 17,
+                "last_commit": "2026-10-09T22:03:48Z",
+                "open_issues": 16,
                 "owner": "wolfSSL",
                 "repo": "wolfBoot",
                 "stars": 536,
@@ -6638,7 +6638,7 @@
                 "open_issues": 11,
                 "owner": "sbabic",
                 "repo": "swupdate",
-                "stars": 1882,
+                "stars": 1884,
                 "topics": [
                   "embedded",
                   "embedded-systems",
@@ -6708,7 +6708,7 @@
                 "open_issues": 42,
                 "owner": "libts",
                 "repo": "tslib",
-                "stars": 675,
+                "stars": 674,
                 "topics": [
                   "embedded",
                   "library",
@@ -6821,11 +6821,11 @@
             "id": 136505169,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-09T20:04:02Z",
-            "open_issues": 562,
+            "last_commit": "2026-10-09T20:54:44Z",
+            "open_issues": 554,
             "owner": "tinygo-org",
             "repo": "tinygo",
-            "stars": 17808,
+            "stars": 17809,
             "topics": [
               "adafruit",
               "arduino",
@@ -6866,7 +6866,7 @@
             "open_issues": 128,
             "owner": "rui314",
             "repo": "chibicc",
-            "stars": 11933,
+            "stars": 11939,
             "topics": []
           },
           "first_seen": "2026-08-29T00:04:59.844Z"
@@ -7013,8 +7013,8 @@
             "id": 228103139,
             "language": "C",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-09T12:39:31Z",
-            "open_issues": 68,
+            "last_commit": "2026-10-10T19:00:12Z",
+            "open_issues": 64,
             "owner": "apache",
             "repo": "nuttx-apps",
             "stars": 467,
@@ -7045,7 +7045,7 @@
             "open_issues": 5,
             "owner": "c410-f3r",
             "repo": "wtx",
-            "stars": 401,
+            "stars": 403,
             "topics": [
               "api",
               "certificate",
@@ -7097,7 +7097,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T20:18:14.758Z",
+    "last_updated": "2026-10-10T19:28:47.840Z",
     "original_repository_info": {
       "archived": false,
       "description": ":stars: List of software (HW interfaces, libs, protocols, etc) specifically suitable for resource-constrained Embedded Systems (low-memory and low-power) like 8-bit, 16-bit and 32-bit microcontrollers.",
@@ -7109,7 +7109,7 @@
       "open_issues": 2,
       "owner": "iDoka",
       "repo": "awesome-embedded-software",
-      "stars": 1128,
+      "stars": 1129,
       "topics": [
         "awesome",
         "awesome-list",
